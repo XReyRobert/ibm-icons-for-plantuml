@@ -2129,6 +2129,47 @@
       "tag": "weathercompanymaxcloudprismpro",
       "stroke": "#232F3E",
       "icon": "General/weathercompanymaxcloudprismpro.png"
+    },
+    {
+      "tag": "GenericBlue",
+      "stroke": "#C925D1",
+      "icon": "Groups/GenericBlue.png"
+    },
+    {
+      "tag": "GenericGreen",
+      "stroke": "#7AA116",
+      "icon": "Groups/GenericGreen.png"
+    },
+    {
+      "tag": "GenericOrange",
+      "stroke": "#ED7100",
+      "icon": "Groups/GenericOrange.png"
+    },
+    {
+      "tag": "GenericPink",
+      "stroke": "#E7157B",
+      "icon": "Groups/GenericPink.png"
+    },
+    {
+      "tag": "GenericPurple",
+      "stroke": "#8C4FFF",
+      "icon": "Groups/GenericPurple.png"
+    },
+    {
+      "tag": "GenericRed",
+      "stroke": "#DD344C",
+      "icon": "Groups/GenericRed.png"
+    },
+    {
+      "tag": "GenericTurquoise",
+      "stroke": "#01A88D",
+      "icon": "Groups/GenericTurquoise.png"
+    },
+    {
+      "tag": "Region",
+      "stroke": "#00A4A6",
+      "border": "dotted",
+      "icon": "Groups/Region.png"
     }
   ]
 }
