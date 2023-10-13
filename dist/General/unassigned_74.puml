@@ -1,9 +1,9 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/IBMlabs/IBM-icons-for-plantuml/blob/main/LICENSE)
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $unassigned_74 [64x64/16z] {
 xTJ7TeKm38JXdQNPeFT_spW-uqCLu24zzr_HFheTVpYhFT1CrprLBvOalLoJz79BKNNVMeggkQTSdS6fitENseckKITPoS_WhRYej38VDz9zJ_Uzh_Ol__9J
 xV_wYGruEchMrs_xse9pzRQVqhxQ7wulmu6VHRAw23Zo5EdgqkEfX-RPDtkyzzJhtuzU_t-SNFX_6Mgg9uSyVda2UVwWXpn_qKEPFrdZ9dccNf-XdS1a7uRM
-yGdYJaXUWk6c3npSWxlVzE61kOW9thhjoPapE6IBMOFUOYHRdA7n6Avp0F6JUmC
+yGdYJaXUWk6c3npSWxlVzE61kOW9thhjoPapE6AWsOFUOYHRdA7n6Avp0F6JUmC
 }
 
 !function $unassigned_74IMG($scale=1)

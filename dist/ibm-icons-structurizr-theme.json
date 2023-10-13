@@ -1,6 +1,6 @@
 {
   "name": "IBM Icons for PlantUML Structurizr theme",
-  "description": "This theme includes element styles with icons for each of the IBM services, based upon the IBM Architecture Icons (https://IBM.amazon.com/architecture/icons/) and using tag names from IBM Icons for PlantUML (https://github.com/IBMlabs/IBM-icons-for-plantuml).",
+  "description": "This theme includes element styles with icons for each of the IBM services,and using tag names from IBM Icons for PlantUML (https://github.com/IBMlabs/IBM-icons-for-plantuml).",
   "elements": [
     {
       "tag": "Element",
