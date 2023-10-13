@@ -2131,6 +2131,56 @@
       "icon": "General/weathercompanymaxcloudprismpro.png"
     },
     {
+      "tag": "AWSAccount",
+      "stroke": "#E7157B",
+      "icon": "Groups/AWSAccount.png"
+    },
+    {
+      "tag": "AWSCloud",
+      "stroke": "$AWS_FG_COLOR",
+      "icon": "Groups/AWSCloud.png"
+    },
+    {
+      "tag": "AWSCloudAlt",
+      "stroke": "$AWS_FG_COLOR",
+      "icon": "Groups/AWSCloudAlt.png"
+    },
+    {
+      "tag": "AutoScalingGroup",
+      "stroke": "#ED7100",
+      "border": "dashed",
+      "icon": "Groups/AutoScalingGroup.png"
+    },
+    {
+      "tag": "AvailabilityZone",
+      "stroke": "#00A4A6",
+      "border": "dashed"
+    },
+    {
+      "tag": "CorporateDataCenter",
+      "stroke": "#7D8998",
+      "icon": "Groups/CorporateDataCenter.png"
+    },
+    {
+      "tag": "EC2InstanceContents",
+      "stroke": "#ED7100",
+      "icon": "Groups/EC2InstanceContents.png"
+    },
+    {
+      "tag": "ElasticBeanstalkContainer",
+      "stroke": "#ED7100",
+      "icon": "Groups/ElasticBeanstalkContainer.png"
+    },
+    {
+      "tag": "Generic",
+      "stroke": "#7D8998",
+      "border": "dashed"
+    },
+    {
+      "tag": "GenericAlt",
+      "stroke": "#7D8998"
+    },
+    {
       "tag": "GenericBlue",
       "stroke": "#C925D1",
       "icon": "Groups/GenericBlue.png"
@@ -2166,10 +2216,54 @@
       "icon": "Groups/GenericTurquoise.png"
     },
     {
+      "tag": "IoTGreengrass",
+      "stroke": "#7AA116",
+      "icon": "Groups/IoTGreengrass.png"
+    },
+    {
+      "tag": "IoTGreengrassDeployment",
+      "stroke": "#7AA116",
+      "icon": "Groups/IoTGreengrassDeployment.png"
+    },
+    {
+      "tag": "PrivateSubnet",
+      "stroke": "#00A4A6",
+      "icon": "Groups/PrivateSubnet.png"
+    },
+    {
+      "tag": "PublicSubnet",
+      "stroke": "#7AA116",
+      "icon": "Groups/PublicSubnet.png"
+    },
+    {
       "tag": "Region",
       "stroke": "#00A4A6",
       "border": "dotted",
       "icon": "Groups/Region.png"
+    },
+    {
+      "tag": "SecurityGroup",
+      "stroke": "#DD344C"
+    },
+    {
+      "tag": "ServerContents",
+      "stroke": "#7D8998",
+      "icon": "Groups/ServerContents.png"
+    },
+    {
+      "tag": "SpotFleet",
+      "stroke": "#ED7100",
+      "icon": "Groups/SpotFleet.png"
+    },
+    {
+      "tag": "StepFunctionsWorkflow",
+      "stroke": "#E7157B",
+      "icon": "Groups/StepFunctionsWorkflow.png"
+    },
+    {
+      "tag": "VPC",
+      "stroke": "#8C4FFF",
+      "icon": "Groups/VPC.png"
     }
   ]
 }
