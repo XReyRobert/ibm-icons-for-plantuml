@@ -11,1664 +11,1664 @@
       "background": "#ffffff"
     },
     {
-      "tag": "beegeneric",
+      "tag": "bee-generic",
       "stroke": "#232F3E",
-      "icon": "General/beegeneric.png"
+      "icon": "General/bee-generic.png"
     },
     {
-      "tag": "carbondesignsystem",
+      "tag": "carbon-design-system",
       "stroke": "#232F3E",
-      "icon": "General/carbondesignsystem.png"
+      "icon": "General/carbon-design-system.png"
     },
     {
-      "tag": "carbonforibmcom",
+      "tag": "carbon-for-ibm-com",
       "stroke": "#232F3E",
-      "icon": "General/carbonforibmcom.png"
+      "icon": "General/carbon-for-ibm-com.png"
     },
     {
-      "tag": "carbonreactnative",
+      "tag": "carbon-react-native",
       "stroke": "#232F3E",
-      "icon": "General/carbonreactnative.png"
+      "icon": "General/carbon-react-native.png"
     },
     {
-      "tag": "eyegeneric",
+      "tag": "eye-generic",
       "stroke": "#232F3E",
-      "icon": "General/eyegeneric.png"
+      "icon": "General/eye-generic.png"
     },
     {
-      "tag": "hourofz",
+      "tag": "hour-of-z",
       "stroke": "#232F3E",
-      "icon": "General/hourofz.png"
+      "icon": "General/hour-of-z.png"
     },
     {
-      "tag": "ibmagropad",
+      "tag": "ibm-agropad",
       "stroke": "#232F3E",
-      "icon": "General/ibmagropad.png"
+      "icon": "General/ibm-agropad.png"
     },
     {
-      "tag": "ibmalertnotification",
+      "tag": "ibm-alert-notification",
       "stroke": "#232F3E",
-      "icon": "General/ibmalertnotification.png"
+      "icon": "General/ibm-alert-notification.png"
     },
     {
-      "tag": "ibmapiconnectr",
+      "tag": "ibm-api-connect-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmapiconnectr.png"
+      "icon": "General/ibm-api-connect-r.png"
     },
     {
-      "tag": "ibmappconnectenterprise",
+      "tag": "ibm-app-connect-enterprise",
       "stroke": "#232F3E",
-      "icon": "General/ibmappconnectenterprise.png"
+      "icon": "General/ibm-app-connect-enterprise.png"
     },
     {
-      "tag": "ibmasperar",
+      "tag": "ibm-aspera-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmasperar.png"
+      "icon": "General/ibm-aspera-r.png"
     },
     {
-      "tag": "ibmaugmentedremoteassist",
+      "tag": "ibm-augmented-remote-assist",
       "stroke": "#232F3E",
-      "icon": "General/ibmaugmentedremoteassist.png"
+      "icon": "General/ibm-augmented-remote-assist.png"
     },
     {
-      "tag": "ibmautomationplatform",
+      "tag": "ibm-automation-platform",
       "stroke": "#232F3E",
-      "icon": "General/ibmautomationplatform.png"
+      "icon": "General/ibm-automation-platform.png"
     },
     {
-      "tag": "ibmblockchaintransparentsupply",
+      "tag": "ibm-blockchain-transparent-supply",
       "stroke": "#232F3E",
-      "icon": "General/ibmblockchaintransparentsupply.png"
+      "icon": "General/ibm-blockchain-transparent-supply.png"
     },
     {
-      "tag": "ibmcallhomeconnectanywhere",
+      "tag": "ibm-call-home-connect-anywhere",
       "stroke": "#232F3E",
-      "icon": "General/ibmcallhomeconnectanywhere.png"
+      "icon": "General/ibm-call-home-connect-anywhere.png"
     },
     {
-      "tag": "ibmcenterforcloudtraining",
+      "tag": "ibm-center-for-cloud-training",
       "stroke": "#232F3E",
-      "icon": "General/ibmcenterforcloudtraining.png"
+      "icon": "General/ibm-center-for-cloud-training.png"
     },
     {
-      "tag": "ibmcicsr",
+      "tag": "ibm-cics-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmcicsr.png"
+      "icon": "General/ibm-cics-r.png"
     },
     {
-      "tag": "ibmcicsrtxoncloud",
+      "tag": "ibm-cics-r-tx-on-cloud",
       "stroke": "#232F3E",
-      "icon": "General/ibmcicsrtxoncloud.png"
+      "icon": "General/ibm-cics-r-tx-on-cloud.png"
     },
     {
-      "tag": "ibmcloudpakrforapplications",
+      "tag": "ibm-cloud-pak-r-for-applications",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrforapplications.png"
+      "icon": "General/ibm-cloud-pak-r-for-applications.png"
     },
     {
-      "tag": "ibmcloudpakrforbusinessautomation",
+      "tag": "ibm-cloud-pak-r-for-business-automation",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrforbusinessautomation.png"
+      "icon": "General/ibm-cloud-pak-r-for-business-automation.png"
     },
     {
-      "tag": "ibmcloudpakrfordata",
+      "tag": "ibm-cloud-pak-r-for-data",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrfordata.png"
+      "icon": "General/ibm-cloud-pak-r-for-data.png"
     },
     {
-      "tag": "ibmcloudpakrforintegration",
+      "tag": "ibm-cloud-pak-r-for-integration",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrforintegration.png"
+      "icon": "General/ibm-cloud-pak-r-for-integration.png"
     },
     {
-      "tag": "ibmcloudpakrformulticloudmanagement",
+      "tag": "ibm-cloud-pak-r-for-multicloud-management",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrformulticloudmanagement.png"
+      "icon": "General/ibm-cloud-pak-r-for-multicloud-management.png"
     },
     {
-      "tag": "ibmcloudpakrfornetworkautomation",
+      "tag": "ibm-cloud-pak-r-for-network-automation",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrfornetworkautomation.png"
+      "icon": "General/ibm-cloud-pak-r-for-network-automation.png"
     },
     {
-      "tag": "ibmcloudpakrforsecurity",
+      "tag": "ibm-cloud-pak-r-for-security",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrforsecurity.png"
+      "icon": "General/ibm-cloud-pak-r-for-security.png"
     },
     {
-      "tag": "ibmcloudpakrforwatsonaiops",
+      "tag": "ibm-cloud-pak-r-for-watson-aiops",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrforwatsonaiops.png"
+      "icon": "General/ibm-cloud-pak-r-for-watson-aiops.png"
     },
     {
-      "tag": "ibmcloudpakrsystem",
+      "tag": "ibm-cloud-pak-r-system",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudpakrsystem.png"
+      "icon": "General/ibm-cloud-pak-r-system.png"
     },
     {
-      "tag": "ibmcloudractivitytracker",
+      "tag": "ibm-cloud-r-activity-tracker",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudractivitytracker.png"
+      "icon": "General/ibm-cloud-r-activity-tracker.png"
     },
     {
-      "tag": "ibmcloudrapigateway",
+      "tag": "ibm-cloud-r-api-gateway",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrapigateway.png"
+      "icon": "General/ibm-cloud-r-api-gateway.png"
     },
     {
-      "tag": "ibmcloudrautoscaling",
+      "tag": "ibm-cloud-r-autoscaling",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrautoscaling.png"
+      "icon": "General/ibm-cloud-r-autoscaling.png"
     },
     {
-      "tag": "ibmcloudrbackupserviceforvpc",
+      "tag": "ibm-cloud-r-backup-service-for-vpc",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrbackupserviceforvpc.png"
+      "icon": "General/ibm-cloud-r-backup-service-for-vpc.png"
     },
     {
-      "tag": "ibmcloudrbaremetalserver",
+      "tag": "ibm-cloud-r-bare-metal-server",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrbaremetalserver.png"
+      "icon": "General/ibm-cloud-r-bare-metal-server.png"
     },
     {
-      "tag": "ibmcloudrbaremetalserversforvpc",
+      "tag": "ibm-cloud-r-bare-metal-servers-for-vpc",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrbaremetalserversforvpc.png"
+      "icon": "General/ibm-cloud-r-bare-metal-servers-for-vpc.png"
     },
     {
-      "tag": "ibmcloudrblockstorageforvpc",
+      "tag": "ibm-cloud-r-block-storage-for-vpc",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrblockstorageforvpc.png"
+      "icon": "General/ibm-cloud-r-block-storage-for-vpc.png"
     },
     {
-      "tag": "ibmcloudrblockstoragesnapshotsforvpc",
+      "tag": "ibm-cloud-r-block-storage-snapshots-for-vpc",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrblockstoragesnapshotsforvpc.png"
+      "icon": "General/ibm-cloud-r-block-storage-snapshots-for-vpc.png"
     },
     {
-      "tag": "ibmcloudrcitrixvirtualappsanddesktops",
+      "tag": "ibm-cloud-r-citrix-virtual-apps-and-desktops",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrcitrixvirtualappsanddesktops.png"
+      "icon": "General/ibm-cloud-r-citrix-virtual-apps-and-desktops.png"
     },
     {
-      "tag": "ibmcloudrclassicinfrastructure",
+      "tag": "ibm-cloud-r-classic-infrastructure",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrclassicinfrastructure.png"
+      "icon": "General/ibm-cloud-r-classic-infrastructure.png"
     },
     {
-      "tag": "ibmcloudrclusterautoscaleraddon",
+      "tag": "ibm-cloud-r-cluster-autoscaler-add-on",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrclusterautoscaleraddon.png"
+      "icon": "General/ibm-cloud-r-cluster-autoscaler-add-on.png"
     },
     {
-      "tag": "ibmcloudrcodeengine",
+      "tag": "ibm-cloud-r-code-engine",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrcodeengine.png"
+      "icon": "General/ibm-cloud-r-code-engine.png"
     },
     {
-      "tag": "ibmcloudrcontainerregistry",
+      "tag": "ibm-cloud-r-container-registry",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrcontainerregistry.png"
+      "icon": "General/ibm-cloud-r-container-registry.png"
     },
     {
-      "tag": "ibmcloudrcontainers",
+      "tag": "ibm-cloud-r-containers",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrcontainers.png"
+      "icon": "General/ibm-cloud-r-containers.png"
     },
     {
-      "tag": "ibmcloudrcontentdeliverynetwork",
+      "tag": "ibm-cloud-r-content-delivery-network",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrcontentdeliverynetwork.png"
+      "icon": "General/ibm-cloud-r-content-delivery-network.png"
     },
     {
-      "tag": "ibmcloudrdatavirtualization",
+      "tag": "ibm-cloud-r-data-virtualization",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrdatavirtualization.png"
+      "icon": "General/ibm-cloud-r-data-virtualization.png"
     },
     {
-      "tag": "ibmcloudrdedicatedhost",
+      "tag": "ibm-cloud-r-dedicated-host",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrdedicatedhost.png"
+      "icon": "General/ibm-cloud-r-dedicated-host.png"
     },
     {
-      "tag": "ibmcloudrdirectlink20",
+      "tag": "ibm-cloud-r-direct-link-2-0",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrdirectlink20.png"
+      "icon": "General/ibm-cloud-r-direct-link-2-0.png"
     },
     {
-      "tag": "ibmcloudrdnsservices",
+      "tag": "ibm-cloud-r-dns-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrdnsservices.png"
+      "icon": "General/ibm-cloud-r-dns-services.png"
     },
     {
-      "tag": "ibmcloudremaildeliveryservice",
+      "tag": "ibm-cloud-r-email-delivery-service",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudremaildeliveryservice.png"
+      "icon": "General/ibm-cloud-r-email-delivery-service.png"
     },
     {
-      "tag": "ibmcloudreventendpointmanagement",
+      "tag": "ibm-cloud-r-event-endpoint-management",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudreventendpointmanagement.png"
+      "icon": "General/ibm-cloud-r-event-endpoint-management.png"
     },
     {
-      "tag": "ibmcloudreventmanagement",
+      "tag": "ibm-cloud-r-event-management",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudreventmanagement.png"
+      "icon": "General/ibm-cloud-r-event-management.png"
     },
     {
-      "tag": "ibmcloudreventnotifications",
+      "tag": "ibm-cloud-r-event-notifications",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudreventnotifications.png"
+      "icon": "General/ibm-cloud-r-event-notifications.png"
     },
     {
-      "tag": "ibmcloudrflowlogsforvpc",
+      "tag": "ibm-cloud-r-flow-logs-for-vpc",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrflowlogsforvpc.png"
+      "icon": "General/ibm-cloud-r-flow-logs-for-vpc.png"
     },
     {
-      "tag": "ibmcloudrfunctions",
+      "tag": "ibm-cloud-r-functions",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrfunctions.png"
+      "icon": "General/ibm-cloud-r-functions.png"
     },
     {
-      "tag": "ibmcloudrgatekeeper",
+      "tag": "ibm-cloud-r-gate-keeper",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrgatekeeper.png"
+      "icon": "General/ibm-cloud-r-gate-keeper.png"
     },
     {
-      "tag": "ibmcloudrgatewayappliances",
+      "tag": "ibm-cloud-r-gateway-appliances",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrgatewayappliances.png"
+      "icon": "General/ibm-cloud-r-gateway-appliances.png"
     },
     {
-      "tag": "ibmcloudrhardwarefirewall",
+      "tag": "ibm-cloud-r-hardware-firewall",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrhardwarefirewall.png"
+      "icon": "General/ibm-cloud-r-hardware-firewall.png"
     },
     {
-      "tag": "ibmcloudrhpccluster",
+      "tag": "ibm-cloud-r-hpc-cluster",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrhpccluster.png"
+      "icon": "General/ibm-cloud-r-hpc-cluster.png"
     },
     {
-      "tag": "ibmcloudrhpcsrouteroperator",
+      "tag": "ibm-cloud-r-hpcs-router-operator",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrhpcsrouteroperator.png"
+      "icon": "General/ibm-cloud-r-hpcs-router-operator.png"
     },
     {
-      "tag": "ibmcloudrhybridlink",
+      "tag": "ibm-cloud-r-hybrid-link",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrhybridlink.png"
+      "icon": "General/ibm-cloud-r-hybrid-link.png"
     },
     {
-      "tag": "ibmcloudrhyperprotectcryptoservices",
+      "tag": "ibm-cloud-r-hyper-protect-crypto-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrhyperprotectcryptoservices.png"
+      "icon": "General/ibm-cloud-r-hyper-protect-crypto-services.png"
     },
     {
-      "tag": "ibmcloudrhyperprotectdbaas",
+      "tag": "ibm-cloud-r-hyper-protect-dbaas",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrhyperprotectdbaas.png"
+      "icon": "General/ibm-cloud-r-hyper-protect-dbaas.png"
     },
     {
-      "tag": "ibmcloudrhyperprotectvirtualservers",
+      "tag": "ibm-cloud-r-hyper-protect-virtual-servers",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrhyperprotectvirtualservers.png"
+      "icon": "General/ibm-cloud-r-hyper-protect-virtual-servers.png"
     },
     {
-      "tag": "ibmcloudrhypersecuredbaasselectortool",
+      "tag": "ibm-cloud-r-hypersecure-dbaas-selector-tool",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrhypersecuredbaasselectortool.png"
+      "icon": "General/ibm-cloud-r-hypersecure-dbaas-selector-tool.png"
     },
     {
-      "tag": "ibmcloudrimagekeysynchronizer",
+      "tag": "ibm-cloud-r-image-key-synchronizer",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrimagekeysynchronizer.png"
+      "icon": "General/ibm-cloud-r-image-key-synchronizer.png"
     },
     {
-      "tag": "ibmcloudrinternetservices",
+      "tag": "ibm-cloud-r-internet-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrinternetservices.png"
+      "icon": "General/ibm-cloud-r-internet-services.png"
     },
     {
-      "tag": "ibmcloudrkubernetesservice",
+      "tag": "ibm-cloud-r-kubernetes-service",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrkubernetesservice.png"
+      "icon": "General/ibm-cloud-r-kubernetes-service.png"
     },
     {
-      "tag": "ibmcloudrkubernetesservicediagnosticsanddebugtooladdon",
+      "tag": "ibm-cloud-r-kubernetes-service-diagnostics-and-debug-tool-add-on",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrkubernetesservicediagnosticsanddebugtooladdon.png"
+      "icon": "General/ibm-cloud-r-kubernetes-service-diagnostics-and-debug-tool-add-on.png"
     },
     {
-      "tag": "ibmcloudrkubernetesservicewithhyperprotect",
+      "tag": "ibm-cloud-r-kubernetes-service-with-hyper-protect",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrkubernetesservicewithhyperprotect.png"
+      "icon": "General/ibm-cloud-r-kubernetes-service-with-hyper-protect.png"
     },
     {
-      "tag": "ibmcloudrkubernetesterminal",
+      "tag": "ibm-cloud-r-kubernetes-terminal",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrkubernetesterminal.png"
+      "icon": "General/ibm-cloud-r-kubernetes-terminal.png"
     },
     {
-      "tag": "ibmcloudrloadbalancerclassic",
+      "tag": "ibm-cloud-r-load-balancer-classic",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrloadbalancerclassic.png"
+      "icon": "General/ibm-cloud-r-load-balancer-classic.png"
     },
     {
-      "tag": "ibmcloudrloadbalancerforvpc",
+      "tag": "ibm-cloud-r-load-balancer-for-vpc",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrloadbalancerforvpc.png"
+      "icon": "General/ibm-cloud-r-load-balancer-for-vpc.png"
     },
     {
-      "tag": "ibmcloudrloganalysis",
+      "tag": "ibm-cloud-r-log-analysis",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrloganalysis.png"
+      "icon": "General/ibm-cloud-r-log-analysis.png"
     },
     {
-      "tag": "ibmcloudrmanagedoauthproxyaddon",
+      "tag": "ibm-cloud-r-managed-oauth-proxy-add-on",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrmanagedoauthproxyaddon.png"
+      "icon": "General/ibm-cloud-r-managed-oauth-proxy-add-on.png"
     },
     {
-      "tag": "ibmcloudrmassdatamigration",
+      "tag": "ibm-cloud-r-mass-data-migration",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrmassdatamigration.png"
+      "icon": "General/ibm-cloud-r-mass-data-migration.png"
     },
     {
-      "tag": "ibmcloudrmigrationservices",
+      "tag": "ibm-cloud-r-migration-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrmigrationservices.png"
+      "icon": "General/ibm-cloud-r-migration-services.png"
     },
     {
-      "tag": "ibmcloudrmonitoring",
+      "tag": "ibm-cloud-r-monitoring",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrmonitoring.png"
+      "icon": "General/ibm-cloud-r-monitoring.png"
     },
     {
-      "tag": "ibmcloudrmulticloudkeyorchestrator",
+      "tag": "ibm-cloud-r-multicloud-key-orchestrator",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrmulticloudkeyorchestrator.png"
+      "icon": "General/ibm-cloud-r-multicloud-key-orchestrator.png"
     },
     {
-      "tag": "ibmcloudrobjectstorage",
+      "tag": "ibm-cloud-r-object-storage",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrobjectstorage.png"
+      "icon": "General/ibm-cloud-r-object-storage.png"
     },
     {
-      "tag": "ibmcloudrprivate",
+      "tag": "ibm-cloud-r-private",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrprivate.png"
+      "icon": "General/ibm-cloud-r-private.png"
     },
     {
-      "tag": "ibmcloudrprofessionalservicesforgovernment",
+      "tag": "ibm-cloud-r-professional-services-for-government",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrprofessionalservicesforgovernment.png"
+      "icon": "General/ibm-cloud-r-professional-services-for-government.png"
     },
     {
-      "tag": "ibmcloudrsatellite",
+      "tag": "ibm-cloud-r-satellite",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrsatellite.png"
+      "icon": "General/ibm-cloud-r-satellite.png"
     },
     {
-      "tag": "ibmcloudrschematics",
+      "tag": "ibm-cloud-r-schematics",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrschematics.png"
+      "icon": "General/ibm-cloud-r-schematics.png"
     },
     {
-      "tag": "ibmcloudrsecuritygroups",
+      "tag": "ibm-cloud-r-security-groups",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrsecuritygroups.png"
+      "icon": "General/ibm-cloud-r-security-groups.png"
     },
     {
-      "tag": "ibmcloudrstaticroute",
+      "tag": "ibm-cloud-r-static-route",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrstaticroute.png"
+      "icon": "General/ibm-cloud-r-static-route.png"
     },
     {
-      "tag": "ibmcloudrsubnets",
+      "tag": "ibm-cloud-r-subnets",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrsubnets.png"
+      "icon": "General/ibm-cloud-r-subnets.png"
     },
     {
-      "tag": "ibmcloudrtransitgateway",
+      "tag": "ibm-cloud-r-transit-gateway",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrtransitgateway.png"
+      "icon": "General/ibm-cloud-r-transit-gateway.png"
     },
     {
-      "tag": "ibmcloudrvirtualserverclassic",
+      "tag": "ibm-cloud-r-virtual-server-classic",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrvirtualserverclassic.png"
+      "icon": "General/ibm-cloud-r-virtual-server-classic.png"
     },
     {
-      "tag": "ibmcloudrvirtualserverforvpc",
+      "tag": "ibm-cloud-r-virtual-server-for-vpc",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrvirtualserverforvpc.png"
+      "icon": "General/ibm-cloud-r-virtual-server-for-vpc.png"
     },
     {
-      "tag": "ibmcloudrvlan",
+      "tag": "ibm-cloud-r-vlan",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrvlan.png"
+      "icon": "General/ibm-cloud-r-vlan.png"
     },
     {
-      "tag": "ibmcloudrvpc",
+      "tag": "ibm-cloud-r-vpc",
       "stroke": "#232F3E",
-      "icon": "General/ibmcloudrvpc.png"
+      "icon": "General/ibm-cloud-r-vpc.png"
     },
     {
-      "tag": "ibmcognosranalytics",
+      "tag": "ibm-cognos-r-analytics",
       "stroke": "#232F3E",
-      "icon": "General/ibmcognosranalytics.png"
+      "icon": "General/ibm-cognos-r-analytics.png"
     },
     {
-      "tag": "ibmcognosranalyticsreporting",
+      "tag": "ibm-cognos-r-analytics-reporting",
       "stroke": "#232F3E",
-      "icon": "General/ibmcognosranalyticsreporting.png"
+      "icon": "General/ibm-cognos-r-analytics-reporting.png"
     },
     {
-      "tag": "ibmcommunityhealthcoach",
+      "tag": "ibm-community-health-coach",
       "stroke": "#232F3E",
-      "icon": "General/ibmcommunityhealthcoach.png"
+      "icon": "General/ibm-community-health-coach.png"
     },
     {
-      "tag": "ibmcommunityhealthmember",
+      "tag": "ibm-community-health-member",
       "stroke": "#232F3E",
-      "icon": "General/ibmcommunityhealthmember.png"
+      "icon": "General/ibm-community-health-member.png"
     },
     {
-      "tag": "ibmcontroldesk",
+      "tag": "ibm-control-desk",
       "stroke": "#232F3E",
-      "icon": "General/ibmcontroldesk.png"
+      "icon": "General/ibm-control-desk.png"
     },
     {
-      "tag": "ibmcruise",
+      "tag": "ibm-cruise",
       "stroke": "#232F3E",
-      "icon": "General/ibmcruise.png"
+      "icon": "General/ibm-cruise.png"
     },
     {
-      "tag": "ibmdashboards",
+      "tag": "ibm-dashboards",
       "stroke": "#232F3E",
-      "icon": "General/ibmdashboards.png"
+      "icon": "General/ibm-dashboards.png"
     },
     {
-      "tag": "ibmdatapowerr",
+      "tag": "ibm-data-privacy-passports",
       "stroke": "#232F3E",
-      "icon": "General/ibmdatapowerr.png"
+      "icon": "General/ibm-data-privacy-passports.png"
     },
     {
-      "tag": "ibmdataprivacypassports",
+      "tag": "ibm-data-replication-on-cloud",
       "stroke": "#232F3E",
-      "icon": "General/ibmdataprivacypassports.png"
+      "icon": "General/ibm-data-replication-on-cloud.png"
     },
     {
-      "tag": "ibmdatareplicationoncloud",
+      "tag": "ibm-datapower-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmdatareplicationoncloud.png"
+      "icon": "General/ibm-datapower-r.png"
     },
     {
-      "tag": "ibmdb2rbigsql",
+      "tag": "ibm-db2-r-big-sql",
       "stroke": "#232F3E",
-      "icon": "General/ibmdb2rbigsql.png"
+      "icon": "General/ibm-db2-r-big-sql.png"
     },
     {
-      "tag": "ibmdb2rdatamanagementconsole",
+      "tag": "ibm-db2-r-data-management-console",
       "stroke": "#232F3E",
-      "icon": "General/ibmdb2rdatamanagementconsole.png"
+      "icon": "General/ibm-db2-r-data-management-console.png"
     },
     {
-      "tag": "ibmdb2rforzosrdatagate",
+      "tag": "ibm-db2-r-for-z-os-r-data-gate",
       "stroke": "#232F3E",
-      "icon": "General/ibmdb2rforzosrdatagate.png"
+      "icon": "General/ibm-db2-r-for-z-os-r-data-gate.png"
     },
     {
-      "tag": "ibmdb2rzdevtoolsextension",
+      "tag": "ibm-db2-r-zdevtools-extension",
       "stroke": "#232F3E",
-      "icon": "General/ibmdb2rzdevtoolsextension.png"
+      "icon": "General/ibm-db2-r-zdevtools-extension.png"
     },
     {
-      "tag": "ibmdcconnectclient",
+      "tag": "ibm-dcconnect-client",
       "stroke": "#232F3E",
-      "icon": "General/ibmdcconnectclient.png"
+      "icon": "General/ibm-dcconnect-client.png"
     },
     {
-      "tag": "ibmdeveloper",
+      "tag": "ibm-developer",
       "stroke": "#232F3E",
-      "icon": "General/ibmdeveloper.png"
+      "icon": "General/ibm-developer.png"
     },
     {
-      "tag": "ibmdevopsanalyze",
+      "tag": "ibm-devops-analyze",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsanalyze.png"
+      "icon": "General/ibm-devops-analyze.png"
     },
     {
-      "tag": "ibmdevopsbuild",
+      "tag": "ibm-devops-build",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsbuild.png"
+      "icon": "General/ibm-devops-build.png"
     },
     {
-      "tag": "ibmdevopscicdpipeline",
+      "tag": "ibm-devops-ci-cd-pipeline",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopscicdpipeline.png"
+      "icon": "General/ibm-devops-ci-cd-pipeline.png"
     },
     {
-      "tag": "ibmdevopscode",
+      "tag": "ibm-devops-code",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopscode.png"
+      "icon": "General/ibm-devops-code.png"
     },
     {
-      "tag": "ibmdevopsdebug",
+      "tag": "ibm-devops-debug",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsdebug.png"
+      "icon": "General/ibm-devops-debug.png"
     },
     {
-      "tag": "ibmdevopsdeploy",
+      "tag": "ibm-devops-deploy",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsdeploy.png"
+      "icon": "General/ibm-devops-deploy.png"
     },
     {
-      "tag": "ibmdevopsdeveloperforzosr",
+      "tag": "ibm-devops-developer-for-z-os-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsdeveloperforzosr.png"
+      "icon": "General/ibm-devops-developer-for-z-os-r.png"
     },
     {
-      "tag": "ibmdevopsmonitor",
+      "tag": "ibm-devops-monitor",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsmonitor.png"
+      "icon": "General/ibm-devops-monitor.png"
     },
     {
-      "tag": "ibmdevopsplan",
+      "tag": "ibm-devops-plan",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsplan.png"
+      "icon": "General/ibm-devops-plan.png"
     },
     {
-      "tag": "ibmdevopsprovision",
+      "tag": "ibm-devops-provision",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsprovision.png"
+      "icon": "General/ibm-devops-provision.png"
     },
     {
-      "tag": "ibmdevopsrelease",
+      "tag": "ibm-devops-release",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopsrelease.png"
+      "icon": "General/ibm-devops-release.png"
     },
     {
-      "tag": "ibmdevopstest",
+      "tag": "ibm-devops-test",
       "stroke": "#232F3E",
-      "icon": "General/ibmdevopstest.png"
+      "icon": "General/ibm-devops-test.png"
     },
     {
-      "tag": "ibmdigitalassistant",
+      "tag": "ibm-digital-assistant",
       "stroke": "#232F3E",
-      "icon": "General/ibmdigitalassistant.png"
+      "icon": "General/ibm-digital-assistant.png"
     },
     {
-      "tag": "ibmdigitalcore",
+      "tag": "ibm-digital-core",
       "stroke": "#232F3E",
-      "icon": "General/ibmdigitalcore.png"
+      "icon": "General/ibm-digital-core.png"
     },
     {
-      "tag": "ibmdigitalnationafrica",
+      "tag": "ibm-digital-nation-africa",
       "stroke": "#232F3E",
-      "icon": "General/ibmdigitalnationafrica.png"
+      "icon": "General/ibm-digital-nation-africa.png"
     },
     {
-      "tag": "ibmdigitalservicesplatformforfinancialservices",
+      "tag": "ibm-digital-services-platform-for-financial-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmdigitalservicesplatformforfinancialservices.png"
+      "icon": "General/ibm-digital-services-platform-for-financial-services.png"
     },
     {
-      "tag": "ibmdownloaddirector",
+      "tag": "ibm-download-director",
       "stroke": "#232F3E",
-      "icon": "General/ibmdownloaddirector.png"
+      "icon": "General/ibm-download-director.png"
     },
     {
-      "tag": "ibmeconfigoncloud",
+      "tag": "ibm-e-config-on-cloud",
       "stroke": "#232F3E",
-      "icon": "General/ibmeconfigoncloud.png"
+      "icon": "General/ibm-e-config-on-cloud.png"
     },
     {
-      "tag": "ibmedgeapplicationmanager",
+      "tag": "ibm-edge-application-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmedgeapplicationmanager.png"
+      "icon": "General/ibm-edge-application-manager.png"
     },
     {
-      "tag": "ibmentitledsystemssupport",
+      "tag": "ibm-entitled-systems-support",
       "stroke": "#232F3E",
-      "icon": "General/ibmentitledsystemssupport.png"
+      "icon": "General/ibm-entitled-systems-support.png"
     },
     {
-      "tag": "ibmepassmobile",
+      "tag": "ibm-epass-mobile",
       "stroke": "#232F3E",
-      "icon": "General/ibmepassmobile.png"
+      "icon": "General/ibm-epass-mobile.png"
     },
     {
-      "tag": "ibmepricerbp",
+      "tag": "ibm-epricer-bp",
       "stroke": "#232F3E",
-      "icon": "General/ibmepricerbp.png"
+      "icon": "General/ibm-epricer-bp.png"
     },
     {
-      "tag": "ibmeventstreams",
+      "tag": "ibm-event-streams",
       "stroke": "#232F3E",
-      "icon": "General/ibmeventstreams.png"
+      "icon": "General/ibm-event-streams.png"
     },
     {
-      "tag": "ibmexpertsellerwithboxplatform",
+      "tag": "ibm-expert-seller-with-box-platform",
       "stroke": "#232F3E",
-      "icon": "General/ibmexpertsellerwithboxplatform.png"
+      "icon": "General/ibm-expert-seller-with-box-platform.png"
     },
     {
-      "tag": "ibmexposurenotificationforenterprise",
+      "tag": "ibm-exposure-notification-for-enterprise",
       "stroke": "#232F3E",
-      "icon": "General/ibmexposurenotificationforenterprise.png"
+      "icon": "General/ibm-exposure-notification-for-enterprise.png"
     },
     {
-      "tag": "ibmfilenetrcontentmanager",
+      "tag": "ibm-filenet-r-content-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmfilenetrcontentmanager.png"
+      "icon": "General/ibm-filenet-r-content-manager.png"
     },
     {
-      "tag": "ibmfoodtrusttmblockchain",
+      "tag": "ibm-food-trusttm-blockchain",
       "stroke": "#232F3E",
-      "icon": "General/ibmfoodtrusttmblockchain.png"
+      "icon": "General/ibm-food-trusttm-blockchain.png"
     },
     {
-      "tag": "ibmglobalfinancingconcierge",
+      "tag": "ibm-global-financing-concierge",
       "stroke": "#232F3E",
-      "icon": "General/ibmglobalfinancingconcierge.png"
+      "icon": "General/ibm-global-financing-concierge.png"
     },
     {
-      "tag": "ibmgsrisk",
+      "tag": "ibm-gs-risk",
       "stroke": "#232F3E",
-      "icon": "General/ibmgsrisk.png"
+      "icon": "General/ibm-gs-risk.png"
     },
     {
-      "tag": "ibmhealthpassissuer",
+      "tag": "ibm-health-pass-issuer",
       "stroke": "#232F3E",
-      "icon": "General/ibmhealthpassissuer.png"
+      "icon": "General/ibm-health-pass-issuer.png"
     },
     {
-      "tag": "ibmhealthpassverifier",
+      "tag": "ibm-health-pass-verifier",
       "stroke": "#232F3E",
-      "icon": "General/ibmhealthpassverifier.png"
+      "icon": "General/ibm-health-pass-verifier.png"
     },
     {
-      "tag": "ibmhealthpasswallet",
+      "tag": "ibm-health-pass-wallet",
       "stroke": "#232F3E",
-      "icon": "General/ibmhealthpasswallet.png"
+      "icon": "General/ibm-health-pass-wallet.png"
     },
     {
-      "tag": "ibmhmcmobile",
+      "tag": "ibm-hmc-mobile",
       "stroke": "#232F3E",
-      "icon": "General/ibmhmcmobile.png"
+      "icon": "General/ibm-hmc-mobile.png"
     },
     {
-      "tag": "ibmhyperprotectdatacontroller",
+      "tag": "ibm-hyper-protect-data-controller",
       "stroke": "#232F3E",
-      "icon": "General/ibmhyperprotectdatacontroller.png"
+      "icon": "General/ibm-hyper-protect-data-controller.png"
     },
     {
-      "tag": "ibminfosphereroptimtestdatamanagementanddataprivacy",
+      "tag": "ibm-infosphere-r-optim-test-data-management-and-data-privacy",
       "stroke": "#232F3E",
-      "icon": "General/ibminfosphereroptimtestdatamanagementanddataprivacy.png"
+      "icon": "General/ibm-infosphere-r-optim-test-data-management-and-data-privacy.png"
     },
     {
-      "tag": "ibminspectionworkbench",
+      "tag": "ibm-inspection-workbench",
       "stroke": "#232F3E",
-      "icon": "General/ibminspectionworkbench.png"
+      "icon": "General/ibm-inspection-workbench.png"
     },
     {
-      "tag": "ibminspectorportable",
+      "tag": "ibm-inspector-portable",
       "stroke": "#232F3E",
-      "icon": "General/ibminspectorportable.png"
+      "icon": "General/ibm-inspector-portable.png"
     },
     {
-      "tag": "ibminspectorwearable",
+      "tag": "ibm-inspector-wearable",
       "stroke": "#232F3E",
-      "icon": "General/ibminspectorwearable.png"
+      "icon": "General/ibm-inspector-wearable.png"
     },
     {
-      "tag": "ibminstantcheckout",
+      "tag": "ibm-instant-checkout",
       "stroke": "#232F3E",
-      "icon": "General/ibminstantcheckout.png"
+      "icon": "General/ibm-instant-checkout.png"
     },
     {
-      "tag": "ibmkenexarleadmanager",
+      "tag": "ibm-kenexa-r-lead-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmkenexarleadmanager.png"
+      "icon": "General/ibm-kenexa-r-lead-manager.png"
     },
     {
-      "tag": "ibmkenexaronboard",
+      "tag": "ibm-kenexa-r-onboard",
       "stroke": "#232F3E",
-      "icon": "General/ibmkenexaronboard.png"
+      "icon": "General/ibm-kenexa-r-onboard.png"
     },
     {
-      "tag": "ibmkeyprotect",
+      "tag": "ibm-key-protect",
       "stroke": "#232F3E",
-      "icon": "General/ibmkeyprotect.png"
+      "icon": "General/ibm-key-protect.png"
     },
     {
-      "tag": "ibmlaunchpad",
+      "tag": "ibm-launchpad",
       "stroke": "#232F3E",
-      "icon": "General/ibmlaunchpad.png"
+      "icon": "General/ibm-launchpad.png"
     },
     {
-      "tag": "ibmliveibmevents",
+      "tag": "ibm-live-ibm-events",
       "stroke": "#232F3E",
-      "icon": "General/ibmliveibmevents.png"
+      "icon": "General/ibm-live-ibm-events.png"
     },
     {
-      "tag": "ibmlocationtracker",
+      "tag": "ibm-location-tracker",
       "stroke": "#232F3E",
-      "icon": "General/ibmlocationtracker.png"
+      "icon": "General/ibm-location-tracker.png"
     },
     {
-      "tag": "ibmmaacceleratoribmprogramworkcenter",
+      "tag": "ibm-m-a-accelerator-ibm-program-work-center",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaacceleratoribmprogramworkcenter.png"
+      "icon": "General/ibm-m-a-accelerator-ibm-program-work-center.png"
     },
     {
-      "tag": "ibmmasterdataconnect",
+      "tag": "ibm-master-data-connect",
       "stroke": "#232F3E",
-      "icon": "General/ibmmasterdataconnect.png"
+      "icon": "General/ibm-master-data-connect.png"
     },
     {
-      "tag": "ibmmasterdatamanagement",
+      "tag": "ibm-master-data-management",
       "stroke": "#232F3E",
-      "icon": "General/ibmmasterdatamanagement.png"
+      "icon": "General/ibm-master-data-management.png"
     },
     {
-      "tag": "ibmmasterdatamanagementexpress",
+      "tag": "ibm-master-data-management-express",
       "stroke": "#232F3E",
-      "icon": "General/ibmmasterdatamanagementexpress.png"
+      "icon": "General/ibm-master-data-management-express.png"
     },
     {
-      "tag": "ibmmaximorassetaudit",
+      "tag": "ibm-maximo-r-asset-audit",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorassetaudit.png"
+      "icon": "General/ibm-maximo-r-asset-audit.png"
     },
     {
-      "tag": "ibmmaximorassetdatamanager",
+      "tag": "ibm-maximo-r-asset-data-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorassetdatamanager.png"
+      "icon": "General/ibm-maximo-r-asset-data-manager.png"
     },
     {
-      "tag": "ibmmaximorcyclecounts",
+      "tag": "ibm-maximo-r-cycle-counts",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorcyclecounts.png"
+      "icon": "General/ibm-maximo-r-cycle-counts.png"
     },
     {
-      "tag": "ibmmaximorinspector",
+      "tag": "ibm-maximo-r-inspector",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorinspector.png"
+      "icon": "General/ibm-maximo-r-inspector.png"
     },
     {
-      "tag": "ibmmaximorissuesandreturns",
+      "tag": "ibm-maximo-r-issues-and-returns",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorissuesandreturns.png"
+      "icon": "General/ibm-maximo-r-issues-and-returns.png"
     },
     {
-      "tag": "ibmmaximorservicerequestor",
+      "tag": "ibm-maximo-r-service-requestor",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorservicerequestor.png"
+      "icon": "General/ibm-maximo-r-service-requestor.png"
     },
     {
-      "tag": "ibmmaximorsupervisor",
+      "tag": "ibm-maximo-r-supervisor",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorsupervisor.png"
+      "icon": "General/ibm-maximo-r-supervisor.png"
     },
     {
-      "tag": "ibmmaximortechnician",
+      "tag": "ibm-maximo-r-technician",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximortechnician.png"
+      "icon": "General/ibm-maximo-r-technician.png"
     },
     {
-      "tag": "ibmmaximortransfersreceipts",
+      "tag": "ibm-maximo-r-transfers-receipts",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximortransfersreceipts.png"
+      "icon": "General/ibm-maximo-r-transfers-receipts.png"
     },
     {
-      "tag": "ibmmaximorvoiceassistant",
+      "tag": "ibm-maximo-r-voice-assistant",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorvoiceassistant.png"
+      "icon": "General/ibm-maximo-r-voice-assistant.png"
     },
     {
-      "tag": "ibmmaximorworkerinsights",
+      "tag": "ibm-maximo-r-worker-insights",
       "stroke": "#232F3E",
-      "icon": "General/ibmmaximorworkerinsights.png"
+      "icon": "General/ibm-maximo-r-worker-insights.png"
     },
     {
-      "tag": "ibmmobilecapture",
+      "tag": "ibm-mobile-capture",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilecapture.png"
+      "icon": "General/ibm-mobile-capture.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosaircraft360",
+      "tag": "ibm-mobilefirst-r-for-ios-aircraft-360",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosaircraft360.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-aircraft-360.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosancillarysales",
+      "tag": "ibm-mobilefirst-r-for-ios-ancillary-sales",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosancillarysales.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-ancillary-sales.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosassigntech",
+      "tag": "ibm-mobilefirst-r-for-ios-assign-tech",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosassigntech.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-assign-tech.png"
     },
     {
-      "tag": "ibmmobilefirstrforioscabincare",
+      "tag": "ibm-mobilefirst-r-for-ios-cabin-care",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforioscabincare.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-cabin-care.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosdigitalgate",
+      "tag": "ibm-mobilefirst-r-for-ios-digital-gate",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosdigitalgate.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-digital-gate.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosflynow",
+      "tag": "ibm-mobilefirst-r-for-ios-fly-now",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosflynow.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-fly-now.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosibmtraintickets",
+      "tag": "ibm-mobilefirst-r-for-ios-ibm-train-tickets",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosibmtraintickets.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-ibm-train-tickets.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosibmtravelercare",
+      "tag": "ibm-mobilefirst-r-for-ios-ibm-traveler-care",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosibmtravelercare.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-ibm-traveler-care.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosinspectandturn",
+      "tag": "ibm-mobilefirst-r-for-ios-inspect-and-turn",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosinspectandturn.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-inspect-and-turn.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosmanagegates",
+      "tag": "ibm-mobilefirst-r-for-ios-manage-gates",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosmanagegates.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-manage-gates.png"
     },
     {
-      "tag": "ibmmobilefirstrforiospassenger",
+      "tag": "ibm-mobilefirst-r-for-ios-passenger",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiospassenger.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-passenger.png"
     },
     {
-      "tag": "ibmmobilefirstrforiospassengercare",
+      "tag": "ibm-mobilefirst-r-for-ios-passenger-care",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiospassengercare.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-passenger-care.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosplanflight",
+      "tag": "ibm-mobilefirst-r-for-ios-plan-flight",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosplanflight.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-plan-flight.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosrapidboard",
+      "tag": "ibm-mobilefirst-r-for-ios-rapid-board",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosrapidboard.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-rapid-board.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosroster",
+      "tag": "ibm-mobilefirst-r-for-ios-roster",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosroster.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-roster.png"
     },
     {
-      "tag": "ibmmobilefirstrforiostodaystrain",
+      "tag": "ibm-mobilefirst-r-for-ios-todays-train",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiostodaystrain.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-todays-train.png"
     },
     {
-      "tag": "ibmmobilefirstrforiosturnmanager",
+      "tag": "ibm-mobilefirst-r-for-ios-turn-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmmobilefirstrforiosturnmanager.png"
+      "icon": "General/ibm-mobilefirst-r-for-ios-turn-manager.png"
     },
     {
-      "tag": "ibmmq",
+      "tag": "ibm-mq",
       "stroke": "#232F3E",
-      "icon": "General/ibmmq.png"
+      "icon": "General/ibm-mq.png"
     },
     {
-      "tag": "ibmmyclinicaldiarymobile",
+      "tag": "ibm-my-clinical-diary-mobile",
       "stroke": "#232F3E",
-      "icon": "General/ibmmyclinicaldiarymobile.png"
+      "icon": "General/ibm-my-clinical-diary-mobile.png"
     },
     {
-      "tag": "ibmnewvisualhorizon",
+      "tag": "ibm-new-visual-horizon",
       "stroke": "#232F3E",
-      "icon": "General/ibmnewvisualhorizon.png"
+      "icon": "General/ibm-new-visual-horizon.png"
     },
     {
-      "tag": "ibmnotifier",
+      "tag": "ibm-notifier",
       "stroke": "#232F3E",
-      "icon": "General/ibmnotifier.png"
+      "icon": "General/ibm-notifier.png"
     },
     {
-      "tag": "ibmopendataanalyticsforzosrizoda",
+      "tag": "ibm-open-data-analytics-for-z-os-r-izoda",
       "stroke": "#232F3E",
-      "icon": "General/ibmopendataanalyticsforzosrizoda.png"
+      "icon": "General/ibm-open-data-analytics-for-z-os-r-izoda.png"
     },
     {
-      "tag": "ibmplanninganalytics",
+      "tag": "ibm-planning-analytics",
       "stroke": "#232F3E",
-      "icon": "General/ibmplanninganalytics.png"
+      "icon": "General/ibm-planning-analytics.png"
     },
     {
-      "tag": "ibmpowerrquickreference",
+      "tag": "ibm-power-r-quick-reference",
       "stroke": "#232F3E",
-      "icon": "General/ibmpowerrquickreference.png"
+      "icon": "General/ibm-power-r-quick-reference.png"
     },
     {
-      "tag": "ibmquantumcomposer",
+      "tag": "ibm-quantum-composer",
       "stroke": "#232F3E",
-      "icon": "General/ibmquantumcomposer.png"
+      "icon": "General/ibm-quantum-composer.png"
     },
     {
-      "tag": "ibmquantumlab",
+      "tag": "ibm-quantum-lab",
       "stroke": "#232F3E",
-      "icon": "General/ibmquantumlab.png"
+      "icon": "General/ibm-quantum-lab.png"
     },
     {
-      "tag": "ibmquantumservices",
+      "tag": "ibm-quantum-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmquantumservices.png"
+      "icon": "General/ibm-quantum-services.png"
     },
     {
-      "tag": "ibmrapidfinancingr",
+      "tag": "ibm-r-automation-decision-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmrapidfinancingr.png"
+      "icon": "General/ibm-r-automation-decision-services.png"
     },
     {
-      "tag": "ibmrationalrdeveloperfori",
+      "tag": "ibm-r-automation-document-processing",
       "stroke": "#232F3E",
-      "icon": "General/ibmrationalrdeveloperfori.png"
+      "icon": "General/ibm-r-automation-document-processing.png"
     },
     {
-      "tag": "ibmrautomationdecisionservices",
+      "tag": "ibm-r-business-automation-insights",
       "stroke": "#232F3E",
-      "icon": "General/ibmrautomationdecisionservices.png"
+      "icon": "General/ibm-r-business-automation-insights.png"
     },
     {
-      "tag": "ibmrautomationdocumentprocessing",
+      "tag": "ibm-r-business-automation-workflow",
       "stroke": "#232F3E",
-      "icon": "General/ibmrautomationdocumentprocessing.png"
+      "icon": "General/ibm-r-business-automation-workflow.png"
     },
     {
-      "tag": "ibmrbusinessautomationinsights",
+      "tag": "ibm-r-cloud-foundry",
       "stroke": "#232F3E",
-      "icon": "General/ibmrbusinessautomationinsights.png"
+      "icon": "General/ibm-r-cloud-foundry.png"
     },
     {
-      "tag": "ibmrbusinessautomationworkflow",
+      "tag": "ibm-r-cloud-infrastructure-center",
       "stroke": "#232F3E",
-      "icon": "General/ibmrbusinessautomationworkflow.png"
+      "icon": "General/ibm-r-cloud-infrastructure-center.png"
     },
     {
-      "tag": "ibmrcloudfoundry",
+      "tag": "ibm-r-content-collector-for-sap",
       "stroke": "#232F3E",
-      "icon": "General/ibmrcloudfoundry.png"
+      "icon": "General/ibm-r-content-collector-for-sap.png"
     },
     {
-      "tag": "ibmrcloudinfrastructurecenter",
+      "tag": "ibm-r-dataops",
       "stroke": "#232F3E",
-      "icon": "General/ibmrcloudinfrastructurecenter.png"
+      "icon": "General/ibm-r-dataops.png"
     },
     {
-      "tag": "ibmrcontentcollectorforsap",
+      "tag": "ibm-r-db2-r-administration-foundation-for-z-os-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmrcontentcollectorforsap.png"
+      "icon": "General/ibm-r-db2-r-administration-foundation-for-z-os-r.png"
     },
     {
-      "tag": "ibmrdataops",
+      "tag": "ibm-r-devsecops",
       "stroke": "#232F3E",
-      "icon": "General/ibmrdataops.png"
+      "icon": "General/ibm-r-devsecops.png"
     },
     {
-      "tag": "ibmrdb2radministrationfoundationforzosr",
+      "tag": "ibm-r-engineering-lifecycle-management",
       "stroke": "#232F3E",
-      "icon": "General/ibmrdb2radministrationfoundationforzosr.png"
+      "icon": "General/ibm-r-engineering-lifecycle-management.png"
     },
     {
-      "tag": "ibmrdevsecops",
+      "tag": "ibm-r-engineering-requirements-doors-next",
       "stroke": "#232F3E",
-      "icon": "General/ibmrdevsecops.png"
+      "icon": "General/ibm-r-engineering-requirements-doors-next.png"
     },
     {
-      "tag": "ibmreleasebuilderkitrbk",
+      "tag": "ibm-r-engineering-systems-design-rhapsody",
       "stroke": "#232F3E",
-      "icon": "General/ibmreleasebuilderkitrbk.png"
+      "icon": "General/ibm-r-engineering-systems-design-rhapsody.png"
     },
     {
-      "tag": "ibmrengineeringlifecyclemanagement",
+      "tag": "ibm-r-engineering-systems-design-rhapsody-model-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmrengineeringlifecyclemanagement.png"
+      "icon": "General/ibm-r-engineering-systems-design-rhapsody-model-manager.png"
     },
     {
-      "tag": "ibmrengineeringrequirementsdoorsnext",
+      "tag": "ibm-r-engineering-test-management",
       "stroke": "#232F3E",
-      "icon": "General/ibmrengineeringrequirementsdoorsnext.png"
+      "icon": "General/ibm-r-engineering-test-management.png"
     },
     {
-      "tag": "ibmrengineeringsystemsdesignrhapsody",
+      "tag": "ibm-r-engineering-workflow-management",
       "stroke": "#232F3E",
-      "icon": "General/ibmrengineeringsystemsdesignrhapsody.png"
+      "icon": "General/ibm-r-engineering-workflow-management.png"
     },
     {
-      "tag": "ibmrengineeringsystemsdesignrhapsodymodelmanager",
+      "tag": "ibm-r-enterprise-records",
       "stroke": "#232F3E",
-      "icon": "General/ibmrengineeringsystemsdesignrhapsodymodelmanager.png"
+      "icon": "General/ibm-r-enterprise-records.png"
     },
     {
-      "tag": "ibmrengineeringtestmanagement",
+      "tag": "ibm-r-infosphere-r-datastage-r-edition",
       "stroke": "#232F3E",
-      "icon": "General/ibmrengineeringtestmanagement.png"
+      "icon": "General/ibm-r-infosphere-r-datastage-r-edition.png"
     },
     {
-      "tag": "ibmrengineeringworkflowmanagement",
+      "tag": "ibm-r-maas360-r-admin",
       "stroke": "#232F3E",
-      "icon": "General/ibmrengineeringworkflowmanagement.png"
+      "icon": "General/ibm-r-maas360-r-admin.png"
     },
     {
-      "tag": "ibmrenterpriserecords",
+      "tag": "ibm-r-maximo-r-mobile",
       "stroke": "#232F3E",
-      "icon": "General/ibmrenterpriserecords.png"
+      "icon": "General/ibm-r-maximo-r-mobile.png"
     },
     {
-      "tag": "ibmresearchrselfguidancetool",
+      "tag": "ibm-r-maximo-r-visual-inspection",
       "stroke": "#232F3E",
-      "icon": "General/ibmresearchrselfguidancetool.png"
+      "icon": "General/ibm-r-maximo-r-visual-inspection.png"
     },
     {
-      "tag": "ibmreturntoworkplaceadvisor",
+      "tag": "ibm-r-netezza-r-performance-server",
       "stroke": "#232F3E",
-      "icon": "General/ibmreturntoworkplaceadvisor.png"
+      "icon": "General/ibm-r-netezza-r-performance-server.png"
     },
     {
-      "tag": "ibmrinfosphererdatastageredition",
+      "tag": "ibm-r-openpages-r-with-watson-r-on-cloud",
       "stroke": "#232F3E",
-      "icon": "General/ibmrinfosphererdatastageredition.png"
+      "icon": "General/ibm-r-openpages-r-with-watson-r-on-cloud.png"
     },
     {
-      "tag": "ibmrmaas360radmin",
+      "tag": "ibm-r-operational-decision-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmrmaas360radmin.png"
+      "icon": "General/ibm-r-operational-decision-manager.png"
     },
     {
-      "tag": "ibmrmaximormobile",
+      "tag": "ibm-r-partner-ecosystem-hub",
       "stroke": "#232F3E",
-      "icon": "General/ibmrmaximormobile.png"
+      "icon": "General/ibm-r-partner-ecosystem-hub.png"
     },
     {
-      "tag": "ibmrmaximorvisualinspection",
+      "tag": "ibm-r-power-r-systems-virtual-server-integration",
       "stroke": "#232F3E",
-      "icon": "General/ibmrmaximorvisualinspection.png"
+      "icon": "General/ibm-r-power-r-systems-virtual-server-integration.png"
     },
     {
-      "tag": "ibmrnetezzarperformanceserver",
+      "tag": "ibm-r-process-mining",
       "stroke": "#232F3E",
-      "icon": "General/ibmrnetezzarperformanceserver.png"
+      "icon": "General/ibm-r-process-mining.png"
     },
     {
-      "tag": "ibmropenpagesrwithwatsonroncloud",
+      "tag": "ibm-r-qradar-r-use-case-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmropenpagesrwithwatsonroncloud.png"
+      "icon": "General/ibm-r-qradar-r-use-case-manager.png"
     },
     {
-      "tag": "ibmroperationaldecisionmanager",
+      "tag": "ibm-r-qradar-r-user-behavior-analytics",
       "stroke": "#232F3E",
-      "icon": "General/ibmroperationaldecisionmanager.png"
+      "icon": "General/ibm-r-qradar-r-user-behavior-analytics.png"
     },
     {
-      "tag": "ibmrpartnerecosystemhub",
+      "tag": "ibm-r-rpa",
       "stroke": "#232F3E",
-      "icon": "General/ibmrpartnerecosystemhub.png"
+      "icon": "General/ibm-r-rpa.png"
     },
     {
-      "tag": "ibmrpowerrsystemsvirtualserverintegration",
+      "tag": "ibm-r-rpa-control-center",
       "stroke": "#232F3E",
-      "icon": "General/ibmrpowerrsystemsvirtualserverintegration.png"
+      "icon": "General/ibm-r-rpa-control-center.png"
     },
     {
-      "tag": "ibmrprocessmining",
+      "tag": "ibm-r-rpa-launcher",
       "stroke": "#232F3E",
-      "icon": "General/ibmrprocessmining.png"
+      "icon": "General/ibm-r-rpa-launcher.png"
     },
     {
-      "tag": "ibmrqradarrusecasemanager",
+      "tag": "ibm-r-rpa-studio",
       "stroke": "#232F3E",
-      "icon": "General/ibmrqradarrusecasemanager.png"
+      "icon": "General/ibm-r-rpa-studio.png"
     },
     {
-      "tag": "ibmrqradarruserbehavioranalytics",
+      "tag": "ibm-r-rpa-vault",
       "stroke": "#232F3E",
-      "icon": "General/ibmrqradarruserbehavioranalytics.png"
+      "icon": "General/ibm-r-rpa-vault.png"
     },
     {
-      "tag": "ibmrrpa",
+      "tag": "ibm-r-tririga-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmrrpa.png"
+      "icon": "General/ibm-r-tririga-r.png"
     },
     {
-      "tag": "ibmrrpacontrolcenter",
+      "tag": "ibm-r-tririga-r-assistant",
       "stroke": "#232F3E",
-      "icon": "General/ibmrrpacontrolcenter.png"
+      "icon": "General/ibm-r-tririga-r-assistant.png"
     },
     {
-      "tag": "ibmrrpalauncher",
+      "tag": "ibm-r-tririga-r-configure",
       "stroke": "#232F3E",
-      "icon": "General/ibmrrpalauncher.png"
+      "icon": "General/ibm-r-tririga-r-configure.png"
     },
     {
-      "tag": "ibmrrpastudio",
+      "tag": "ibm-r-tririga-r-facility-condition",
       "stroke": "#232F3E",
-      "icon": "General/ibmrrpastudio.png"
+      "icon": "General/ibm-r-tririga-r-facility-condition.png"
     },
     {
-      "tag": "ibmrrpavault",
+      "tag": "ibm-r-tririga-r-facility-sustainability",
       "stroke": "#232F3E",
-      "icon": "General/ibmrrpavault.png"
+      "icon": "General/ibm-r-tririga-r-facility-sustainability.png"
     },
     {
-      "tag": "ibmrtririgar",
+      "tag": "ibm-r-tririga-r-indoor-maps",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgar.png"
+      "icon": "General/ibm-r-tririga-r-indoor-maps.png"
     },
     {
-      "tag": "ibmrtririgarassistant",
+      "tag": "ibm-r-tririga-r-insights",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarassistant.png"
+      "icon": "General/ibm-r-tririga-r-insights.png"
     },
     {
-      "tag": "ibmrtririgarconfigure",
+      "tag": "ibm-r-tririga-r-lease-accounting",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarconfigure.png"
+      "icon": "General/ibm-r-tririga-r-lease-accounting.png"
     },
     {
-      "tag": "ibmrtririgarfacilitycondition",
+      "tag": "ibm-r-tririga-r-lease-administration",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarfacilitycondition.png"
+      "icon": "General/ibm-r-tririga-r-lease-administration.png"
     },
     {
-      "tag": "ibmrtririgarfacilitysustainability",
+      "tag": "ibm-r-tririga-r-maintenance",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarfacilitysustainability.png"
+      "icon": "General/ibm-r-tririga-r-maintenance.png"
     },
     {
-      "tag": "ibmrtririgarindoormaps",
+      "tag": "ibm-r-tririga-r-metrics",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarindoormaps.png"
+      "icon": "General/ibm-r-tririga-r-metrics.png"
     },
     {
-      "tag": "ibmrtririgarinsights",
+      "tag": "ibm-r-tririga-r-projects",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarinsights.png"
+      "icon": "General/ibm-r-tririga-r-projects.png"
     },
     {
-      "tag": "ibmrtririgarleaseaccounting",
+      "tag": "ibm-r-tririga-r-projects-hub",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarleaseaccounting.png"
+      "icon": "General/ibm-r-tririga-r-projects-hub.png"
     },
     {
-      "tag": "ibmrtririgarleaseadministration",
+      "tag": "ibm-r-tririga-r-reporting",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarleaseadministration.png"
+      "icon": "General/ibm-r-tririga-r-reporting.png"
     },
     {
-      "tag": "ibmrtririgarmaintenance",
+      "tag": "ibm-r-tririga-r-reserve",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarmaintenance.png"
+      "icon": "General/ibm-r-tririga-r-reserve.png"
     },
     {
-      "tag": "ibmrtririgarmetrics",
+      "tag": "ibm-r-tririga-r-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarmetrics.png"
+      "icon": "General/ibm-r-tririga-r-services.png"
     },
     {
-      "tag": "ibmrtririgarprojects",
+      "tag": "ibm-r-tririga-r-transactions",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarprojects.png"
+      "icon": "General/ibm-r-tririga-r-transactions.png"
     },
     {
-      "tag": "ibmrtririgarprojectshub",
+      "tag": "ibm-r-websphere-r-liberty",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarprojectshub.png"
+      "icon": "General/ibm-r-websphere-r-liberty.png"
     },
     {
-      "tag": "ibmrtririgarreporting",
+      "tag": "ibm-r-z-os-r-management-services-catalog",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarreporting.png"
+      "icon": "General/ibm-r-z-os-r-management-services-catalog.png"
     },
     {
-      "tag": "ibmrtririgarreserve",
+      "tag": "ibm-r-z-osmf-cfrm-policy-editor",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarreserve.png"
+      "icon": "General/ibm-r-z-osmf-cfrm-policy-editor.png"
     },
     {
-      "tag": "ibmrtririgarservices",
+      "tag": "ibm-r-z-osmf-software-update",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgarservices.png"
+      "icon": "General/ibm-r-z-osmf-software-update.png"
     },
     {
-      "tag": "ibmrtririgartransactions",
+      "tag": "ibm-rapid-financing-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmrtririgartransactions.png"
+      "icon": "General/ibm-rapid-financing-r.png"
     },
     {
-      "tag": "ibmrwebsphererliberty",
+      "tag": "ibm-rational-r-developer-for-i",
       "stroke": "#232F3E",
-      "icon": "General/ibmrwebsphererliberty.png"
+      "icon": "General/ibm-rational-r-developer-for-i.png"
     },
     {
-      "tag": "ibmrzosmfcfrmpolicyeditor",
+      "tag": "ibm-release-builder-kit-rbk",
       "stroke": "#232F3E",
-      "icon": "General/ibmrzosmfcfrmpolicyeditor.png"
+      "icon": "General/ibm-release-builder-kit-rbk.png"
     },
     {
-      "tag": "ibmrzosmfsoftwareupdate",
+      "tag": "ibm-research-r-self-guidance-tool",
       "stroke": "#232F3E",
-      "icon": "General/ibmrzosmfsoftwareupdate.png"
+      "icon": "General/ibm-research-r-self-guidance-tool.png"
     },
     {
-      "tag": "ibmrzosrmanagementservicescatalog",
+      "tag": "ibm-return-to-workplace-advisor",
       "stroke": "#232F3E",
-      "icon": "General/ibmrzosrmanagementservicescatalog.png"
+      "icon": "General/ibm-return-to-workplace-advisor.png"
     },
     {
-      "tag": "ibmsaferpayments",
+      "tag": "ibm-safer-payments",
       "stroke": "#232F3E",
-      "icon": "General/ibmsaferpayments.png"
+      "icon": "General/ibm-safer-payments.png"
     },
     {
-      "tag": "ibmsecuritytmaccessrequest",
+      "tag": "ibm-securitytm-access-request",
       "stroke": "#232F3E",
-      "icon": "General/ibmsecuritytmaccessrequest.png"
+      "icon": "General/ibm-securitytm-access-request.png"
     },
     {
-      "tag": "ibmsecuritytmcases",
+      "tag": "ibm-securitytm-cases",
       "stroke": "#232F3E",
-      "icon": "General/ibmsecuritytmcases.png"
+      "icon": "General/ibm-securitytm-cases.png"
     },
     {
-      "tag": "ibmsecuritytmdataexplorer",
+      "tag": "ibm-securitytm-data-explorer",
       "stroke": "#232F3E",
-      "icon": "General/ibmsecuritytmdataexplorer.png"
+      "icon": "General/ibm-securitytm-data-explorer.png"
     },
     {
-      "tag": "ibmsecuritytmqradarranalystworkflow",
+      "tag": "ibm-securitytm-qradar-r-analyst-workflow",
       "stroke": "#232F3E",
-      "icon": "General/ibmsecuritytmqradarranalystworkflow.png"
+      "icon": "General/ibm-securitytm-qradar-r-analyst-workflow.png"
     },
     {
-      "tag": "ibmsecuritytmservices",
+      "tag": "ibm-securitytm-services",
       "stroke": "#232F3E",
-      "icon": "General/ibmsecuritytmservices.png"
+      "icon": "General/ibm-securitytm-services.png"
     },
     {
-      "tag": "ibmsecuritytmverify",
+      "tag": "ibm-securitytm-verify",
       "stroke": "#232F3E",
-      "icon": "General/ibmsecuritytmverify.png"
+      "icon": "General/ibm-securitytm-verify.png"
     },
     {
-      "tag": "ibmsiteaccess",
+      "tag": "ibm-site-access",
       "stroke": "#232F3E",
-      "icon": "General/ibmsiteaccess.png"
+      "icon": "General/ibm-site-access.png"
     },
     {
-      "tag": "ibmspectrumconductorr",
+      "tag": "ibm-spectrum-conductor-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumconductorr.png"
+      "icon": "General/ibm-spectrum-conductor-r.png"
     },
     {
-      "tag": "ibmspectrumrarchive",
+      "tag": "ibm-spectrum-r-archive",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrarchive.png"
+      "icon": "General/ibm-spectrum-r-archive.png"
     },
     {
-      "tag": "ibmspectrumrcomputing",
+      "tag": "ibm-spectrum-r-computing",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrcomputing.png"
+      "icon": "General/ibm-spectrum-r-computing.png"
     },
     {
-      "tag": "ibmspectrumrcomputingsuiteforhighperformanceanalytics",
+      "tag": "ibm-spectrum-r-computing-suite-for-high-performance-analytics",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrcomputingsuiteforhighperformanceanalytics.png"
+      "icon": "General/ibm-spectrum-r-computing-suite-for-high-performance-analytics.png"
     },
     {
-      "tag": "ibmspectrumrcontrol",
+      "tag": "ibm-spectrum-r-control",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrcontrol.png"
+      "icon": "General/ibm-spectrum-r-control.png"
     },
     {
-      "tag": "ibmspectrumrcopydatamanagement",
+      "tag": "ibm-spectrum-r-copy-data-management",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrcopydatamanagement.png"
+      "icon": "General/ibm-spectrum-r-copy-data-management.png"
     },
     {
-      "tag": "ibmspectrumrdiscover",
+      "tag": "ibm-spectrum-r-discover",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrdiscover.png"
+      "icon": "General/ibm-spectrum-r-discover.png"
     },
     {
-      "tag": "ibmspectrumrfusion",
+      "tag": "ibm-spectrum-r-fusion",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrfusion.png"
+      "icon": "General/ibm-spectrum-r-fusion.png"
     },
     {
-      "tag": "ibmspectrumrlsf",
+      "tag": "ibm-spectrum-r-lsf",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrlsf.png"
+      "icon": "General/ibm-spectrum-r-lsf.png"
     },
     {
-      "tag": "ibmspectrumrmpi",
+      "tag": "ibm-spectrum-r-mpi",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrmpi.png"
+      "icon": "General/ibm-spectrum-r-mpi.png"
     },
     {
-      "tag": "ibmspectrumrprotect",
+      "tag": "ibm-spectrum-r-protect",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrprotect.png"
+      "icon": "General/ibm-spectrum-r-protect.png"
     },
     {
-      "tag": "ibmspectrumrprotectplus",
+      "tag": "ibm-spectrum-r-protect-plus",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrprotectplus.png"
+      "icon": "General/ibm-spectrum-r-protect-plus.png"
     },
     {
-      "tag": "ibmspectrumrprotecttoolsforadministrators",
+      "tag": "ibm-spectrum-r-protect-tools-for-administrators",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrprotecttoolsforadministrators.png"
+      "icon": "General/ibm-spectrum-r-protect-tools-for-administrators.png"
     },
     {
-      "tag": "ibmspectrumrscale",
+      "tag": "ibm-spectrum-r-scale",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrscale.png"
+      "icon": "General/ibm-spectrum-r-scale.png"
     },
     {
-      "tag": "ibmspectrumrstorage",
+      "tag": "ibm-spectrum-r-storage",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrstorage.png"
+      "icon": "General/ibm-spectrum-r-storage.png"
     },
     {
-      "tag": "ibmspectrumrstorageinsights",
+      "tag": "ibm-spectrum-r-storage-insights",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrstorageinsights.png"
+      "icon": "General/ibm-spectrum-r-storage-insights.png"
     },
     {
-      "tag": "ibmspectrumrvirtualize",
+      "tag": "ibm-spectrum-r-virtualize",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumrvirtualize.png"
+      "icon": "General/ibm-spectrum-r-virtualize.png"
     },
     {
-      "tag": "ibmspectrumsymphonyr",
+      "tag": "ibm-spectrum-symphony-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmspectrumsymphonyr.png"
+      "icon": "General/ibm-spectrum-symphony-r.png"
     },
     {
-      "tag": "ibmspssrmodelersubscription",
+      "tag": "ibm-spss-r-modeler-subscription",
       "stroke": "#232F3E",
-      "icon": "General/ibmspssrmodelersubscription.png"
+      "icon": "General/ibm-spss-r-modeler-subscription.png"
     },
     {
-      "tag": "ibmstakeholdercollaborator",
+      "tag": "ibm-stakeholder-collaborator",
       "stroke": "#232F3E",
-      "icon": "General/ibmstakeholdercollaborator.png"
+      "icon": "General/ibm-stakeholder-collaborator.png"
     },
     {
-      "tag": "ibmstakeholdermanager",
+      "tag": "ibm-stakeholder-manager",
       "stroke": "#232F3E",
-      "icon": "General/ibmstakeholdermanager.png"
+      "icon": "General/ibm-stakeholder-manager.png"
     },
     {
-      "tag": "ibmsterlingtmstoreengagement",
+      "tag": "ibm-sterlingtm-store-engagement",
       "stroke": "#232F3E",
-      "icon": "General/ibmsterlingtmstoreengagement.png"
+      "icon": "General/ibm-sterlingtm-store-engagement.png"
     },
     {
-      "tag": "ibmsterlingtmsupplychain",
+      "tag": "ibm-sterlingtm-supply-chain",
       "stroke": "#232F3E",
-      "icon": "General/ibmsterlingtmsupplychain.png"
+      "icon": "General/ibm-sterlingtm-supply-chain.png"
     },
     {
-      "tag": "ibmstudyadvance",
+      "tag": "ibm-study-advance",
       "stroke": "#232F3E",
-      "icon": "General/ibmstudyadvance.png"
+      "icon": "General/ibm-study-advance.png"
     },
     {
-      "tag": "ibmsupplychaincontroltower",
+      "tag": "ibm-supply-chain-control-tower",
       "stroke": "#232F3E",
-      "icon": "General/ibmsupplychaincontroltower.png"
+      "icon": "General/ibm-supply-chain-control-tower.png"
     },
     {
-      "tag": "ibmsupportsearchwithwatsonr",
+      "tag": "ibm-support-search-with-watson-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmsupportsearchwithwatsonr.png"
+      "icon": "General/ibm-support-search-with-watson-r.png"
     },
     {
-      "tag": "ibmsystemstechuagenda",
+      "tag": "ibm-systems-techu-agenda",
       "stroke": "#232F3E",
-      "icon": "General/ibmsystemstechuagenda.png"
+      "icon": "General/ibm-systems-techu-agenda.png"
     },
     {
-      "tag": "ibmtaskminingagent",
+      "tag": "ibm-task-mining-agent",
       "stroke": "#232F3E",
-      "icon": "General/ibmtaskminingagent.png"
+      "icon": "General/ibm-task-mining-agent.png"
     },
     {
-      "tag": "ibmthreatintelligenceinsights",
+      "tag": "ibm-threat-intelligence-insights",
       "stroke": "#232F3E",
-      "icon": "General/ibmthreatintelligenceinsights.png"
+      "icon": "General/ibm-threat-intelligence-insights.png"
     },
     {
-      "tag": "ibmtouchtoken",
+      "tag": "ibm-touchtoken",
       "stroke": "#232F3E",
-      "icon": "General/ibmtouchtoken.png"
+      "icon": "General/ibm-touchtoken.png"
     },
     {
-      "tag": "ibmunstructureddataprivacy",
+      "tag": "ibm-unstructured-data-privacy",
       "stroke": "#232F3E",
-      "icon": "General/ibmunstructureddataprivacy.png"
+      "icon": "General/ibm-unstructured-data-privacy.png"
     },
     {
-      "tag": "ibmwatsoniotrplatform",
+      "tag": "ibm-watson-iot-r-platform",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsoniotrplatform.png"
+      "icon": "General/ibm-watson-iot-r-platform.png"
     },
     {
-      "tag": "ibmwatsoniotrplatformconnectionservice",
+      "tag": "ibm-watson-iot-r-platform-connection-service",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsoniotrplatformconnectionservice.png"
+      "icon": "General/ibm-watson-iot-r-platform-connection-service.png"
     },
     {
-      "tag": "ibmwatsonraiops",
+      "tag": "ibm-watson-r-ai-ops",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonraiops.png"
+      "icon": "General/ibm-watson-r-ai-ops.png"
     },
     {
-      "tag": "ibmwatsonrassistant",
+      "tag": "ibm-watson-r-assistant",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrassistant.png"
+      "icon": "General/ibm-watson-r-assistant.png"
     },
     {
-      "tag": "ibmwatsonrbrassringr",
+      "tag": "ibm-watson-r-brassring-r",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrbrassringr.png"
+      "icon": "General/ibm-watson-r-brassring-r.png"
     },
     {
-      "tag": "ibmwatsonrcandidateassistant",
+      "tag": "ibm-watson-r-candidate-assistant",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrcandidateassistant.png"
+      "icon": "General/ibm-watson-r-candidate-assistant.png"
     },
     {
-      "tag": "ibmwatsonrcareercoach",
+      "tag": "ibm-watson-r-career-coach",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrcareercoach.png"
+      "icon": "General/ibm-watson-r-career-coach.png"
     },
     {
-      "tag": "ibmwatsonrcompareandcomply",
+      "tag": "ibm-watson-r-compare-and-comply",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrcompareandcomply.png"
+      "icon": "General/ibm-watson-r-compare-and-comply.png"
     },
     {
-      "tag": "ibmwatsonrdiscovery",
+      "tag": "ibm-watson-r-discovery",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrdiscovery.png"
+      "icon": "General/ibm-watson-r-discovery.png"
     },
     {
-      "tag": "ibmwatsonrknowledgecatalog",
+      "tag": "ibm-watson-r-knowledge-catalog",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrknowledgecatalog.png"
+      "icon": "General/ibm-watson-r-knowledge-catalog.png"
     },
     {
-      "tag": "ibmwatsonrknowledgestudio",
+      "tag": "ibm-watson-r-knowledge-studio",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrknowledgestudio.png"
+      "icon": "General/ibm-watson-r-knowledge-studio.png"
     },
     {
-      "tag": "ibmwatsonrlanguagetranslator",
+      "tag": "ibm-watson-r-language-translator",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrlanguagetranslator.png"
+      "icon": "General/ibm-watson-r-language-translator.png"
     },
     {
-      "tag": "ibmwatsonrmachinelearning",
+      "tag": "ibm-watson-r-machine-learning",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrmachinelearning.png"
+      "icon": "General/ibm-watson-r-machine-learning.png"
     },
     {
-      "tag": "ibmwatsonrnaturallanguageclassifierservice",
+      "tag": "ibm-watson-r-natural-language-classifier-service",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrnaturallanguageclassifierservice.png"
+      "icon": "General/ibm-watson-r-natural-language-classifier-service.png"
     },
     {
-      "tag": "ibmwatsonrnaturallanguageunderstandingservice",
+      "tag": "ibm-watson-r-natural-language-understanding-service",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrnaturallanguageunderstandingservice.png"
+      "icon": "General/ibm-watson-r-natural-language-understanding-service.png"
     },
     {
-      "tag": "ibmwatsonropenscaletm",
+      "tag": "ibm-watson-r-openscaletm",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonropenscaletm.png"
+      "icon": "General/ibm-watson-r-openscaletm.png"
     },
     {
-      "tag": "ibmwatsonrorders",
+      "tag": "ibm-watson-r-orders",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrorders.png"
+      "icon": "General/ibm-watson-r-orders.png"
     },
     {
-      "tag": "ibmwatsonrpersonalityinsights",
+      "tag": "ibm-watson-r-personality-insights",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrpersonalityinsights.png"
+      "icon": "General/ibm-watson-r-personality-insights.png"
     },
     {
-      "tag": "ibmwatsonrrecruitment",
+      "tag": "ibm-watson-r-recruitment",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrrecruitment.png"
+      "icon": "General/ibm-watson-r-recruitment.png"
     },
     {
-      "tag": "ibmwatsonrrecruitmentadverseimpactanalysis",
+      "tag": "ibm-watson-r-recruitment-adverse-impact-analysis",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrrecruitmentadverseimpactanalysis.png"
+      "icon": "General/ibm-watson-r-recruitment-adverse-impact-analysis.png"
     },
     {
-      "tag": "ibmwatsonrrecruitmentapi",
+      "tag": "ibm-watson-r-recruitment-api",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrrecruitmentapi.png"
+      "icon": "General/ibm-watson-r-recruitment-api.png"
     },
     {
-      "tag": "ibmwatsonrspeechtotext",
+      "tag": "ibm-watson-r-speech-to-text",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrspeechtotext.png"
+      "icon": "General/ibm-watson-r-speech-to-text.png"
     },
     {
-      "tag": "ibmwatsonrstudio",
+      "tag": "ibm-watson-r-studio",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrstudio.png"
+      "icon": "General/ibm-watson-r-studio.png"
     },
     {
-      "tag": "ibmwatsonrtalent",
+      "tag": "ibm-watson-r-talent",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrtalent.png"
+      "icon": "General/ibm-watson-r-talent.png"
     },
     {
-      "tag": "ibmwatsonrtalentassessment",
+      "tag": "ibm-watson-r-talent-assessment",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrtalentassessment.png"
+      "icon": "General/ibm-watson-r-talent-assessment.png"
     },
     {
-      "tag": "ibmwatsonrtalentframeworks",
+      "tag": "ibm-watson-r-talent-frameworks",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrtalentframeworks.png"
+      "icon": "General/ibm-watson-r-talent-frameworks.png"
     },
     {
-      "tag": "ibmwatsonrtalentmatchapi",
+      "tag": "ibm-watson-r-talent-match-api",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrtalentmatchapi.png"
+      "icon": "General/ibm-watson-r-talent-match-api.png"
     },
     {
-      "tag": "ibmwatsonrtalentsuite",
+      "tag": "ibm-watson-r-talent-suite",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrtalentsuite.png"
+      "icon": "General/ibm-watson-r-talent-suite.png"
     },
     {
-      "tag": "ibmwatsonrtexttospeech",
+      "tag": "ibm-watson-r-text-to-speech",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrtexttospeech.png"
+      "icon": "General/ibm-watson-r-text-to-speech.png"
     },
     {
-      "tag": "ibmwatsonrtoneanalyzerservice",
+      "tag": "ibm-watson-r-tone-analyzer-service",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrtoneanalyzerservice.png"
+      "icon": "General/ibm-watson-r-tone-analyzer-service.png"
     },
     {
-      "tag": "ibmwatsonrvisualrecognition",
+      "tag": "ibm-watson-r-visual-recognition",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrvisualrecognition.png"
+      "icon": "General/ibm-watson-r-visual-recognition.png"
     },
     {
-      "tag": "ibmwatsonrworkbench",
+      "tag": "ibm-watson-r-workbench",
       "stroke": "#232F3E",
-      "icon": "General/ibmwatsonrworkbench.png"
+      "icon": "General/ibm-watson-r-workbench.png"
     },
     {
-      "tag": "ibmwazianalyze",
+      "tag": "ibm-wazi-analyze",
       "stroke": "#232F3E",
-      "icon": "General/ibmwazianalyze.png"
+      "icon": "General/ibm-wazi-analyze.png"
     },
     {
-      "tag": "ibmworldcommunitygrid",
+      "tag": "ibm-world-community-grid",
       "stroke": "#232F3E",
-      "icon": "General/ibmworldcommunitygrid.png"
+      "icon": "General/ibm-world-community-grid.png"
     },
     {
-      "tag": "ibmyourlearningboost",
+      "tag": "ibm-your-learning-boost",
       "stroke": "#232F3E",
-      "icon": "General/ibmyourlearningboost.png"
+      "icon": "General/ibm-your-learning-boost.png"
     },
     {
-      "tag": "ibmyourprocure",
+      "tag": "ibm-yourprocure",
       "stroke": "#232F3E",
-      "icon": "General/ibmyourprocure.png"
+      "icon": "General/ibm-yourprocure.png"
     },
     {
-      "tag": "iibmcloudrvirtualprivatecloudvpcendpoints",
+      "tag": "iibm-cloud-r-virtual-private-cloud-vpc-endpoints",
       "stroke": "#232F3E",
-      "icon": "General/iibmcloudrvirtualprivatecloudvpcendpoints.png"
+      "icon": "General/iibm-cloud-r-virtual-private-cloud-vpc-endpoints.png"
     },
     {
-      "tag": "iotadministration",
+      "tag": "iot-administration",
       "stroke": "#232F3E",
-      "icon": "General/iotadministration.png"
+      "icon": "General/iot-administration.png"
     },
     {
-      "tag": "iotasset",
+      "tag": "iot-asset",
       "stroke": "#232F3E",
-      "icon": "General/iotasset.png"
+      "icon": "General/iot-asset.png"
     },
     {
-      "tag": "iotbusinessanalytics",
+      "tag": "iot-business-analytics",
       "stroke": "#232F3E",
-      "icon": "General/iotbusinessanalytics.png"
+      "icon": "General/iot-business-analytics.png"
     },
     {
       "tag": "lilox",
@@ -1676,24 +1676,24 @@
       "icon": "General/lilox.png"
     },
     {
-      "tag": "oneviewmobile",
+      "tag": "oneview-mobile",
       "stroke": "#232F3E",
-      "icon": "General/oneviewmobile.png"
+      "icon": "General/oneview-mobile.png"
     },
     {
-      "tag": "opendsp",
+      "tag": "open-dsp",
       "stroke": "#232F3E",
-      "icon": "General/opendsp.png"
+      "icon": "General/open-dsp.png"
     },
     {
-      "tag": "redhatropenshiftronibmcloudrcontainerstorage",
+      "tag": "red-hat-r-openshift-r-on-ibm-cloud-r-container-storage",
       "stroke": "#232F3E",
-      "icon": "General/redhatropenshiftronibmcloudrcontainerstorage.png"
+      "icon": "General/red-hat-r-openshift-r-on-ibm-cloud-r-container-storage.png"
     },
     {
-      "tag": "regulatoryacceleratoronibmcloudpakrfordata",
+      "tag": "regulatory-accelerator-on-ibm-cloud-pak-r-for-data",
       "stroke": "#232F3E",
-      "icon": "General/regulatoryacceleratoronibmcloudpakrfordata.png"
+      "icon": "General/regulatory-accelerator-on-ibm-cloud-pak-r-for-data.png"
     },
     {
       "tag": "tlconnect",
@@ -1701,9 +1701,14 @@
       "icon": "General/tlconnect.png"
     },
     {
-      "tag": "travelibm",
+      "tag": "travel-ibm",
       "stroke": "#232F3E",
-      "icon": "General/travelibm.png"
+      "icon": "General/travel-ibm.png"
+    },
+    {
+      "tag": "unassigned-security",
+      "stroke": "#232F3E",
+      "icon": "General/unassigned-security.png"
     },
     {
       "tag": "unassigned_0",
@@ -2116,154 +2121,14 @@
       "icon": "General/unassigned_9.png"
     },
     {
-      "tag": "unassignedsecurity",
+      "tag": "vulnerability-management",
       "stroke": "#232F3E",
-      "icon": "General/unassignedsecurity.png"
+      "icon": "General/vulnerability-management.png"
     },
     {
-      "tag": "vulnerabilitymanagement",
+      "tag": "weather-company-max-cloud-prism-pro",
       "stroke": "#232F3E",
-      "icon": "General/vulnerabilitymanagement.png"
-    },
-    {
-      "tag": "weathercompanymaxcloudprismpro",
-      "stroke": "#232F3E",
-      "icon": "General/weathercompanymaxcloudprismpro.png"
-    },
-    {
-      "tag": "AWSAccount",
-      "stroke": "#E7157B",
-      "icon": "Groups/AWSAccount.png"
-    },
-    {
-      "tag": "AWSCloud",
-      "stroke": "$AWS_FG_COLOR",
-      "icon": "Groups/AWSCloud.png"
-    },
-    {
-      "tag": "AWSCloudAlt",
-      "stroke": "$AWS_FG_COLOR",
-      "icon": "Groups/AWSCloudAlt.png"
-    },
-    {
-      "tag": "AutoScalingGroup",
-      "stroke": "#ED7100",
-      "border": "dashed",
-      "icon": "Groups/AutoScalingGroup.png"
-    },
-    {
-      "tag": "AvailabilityZone",
-      "stroke": "#00A4A6",
-      "border": "dashed"
-    },
-    {
-      "tag": "CorporateDataCenter",
-      "stroke": "#7D8998",
-      "icon": "Groups/CorporateDataCenter.png"
-    },
-    {
-      "tag": "EC2InstanceContents",
-      "stroke": "#ED7100",
-      "icon": "Groups/EC2InstanceContents.png"
-    },
-    {
-      "tag": "ElasticBeanstalkContainer",
-      "stroke": "#ED7100",
-      "icon": "Groups/ElasticBeanstalkContainer.png"
-    },
-    {
-      "tag": "Generic",
-      "stroke": "#7D8998",
-      "border": "dashed"
-    },
-    {
-      "tag": "GenericAlt",
-      "stroke": "#7D8998"
-    },
-    {
-      "tag": "GenericBlue",
-      "stroke": "#C925D1",
-      "icon": "Groups/GenericBlue.png"
-    },
-    {
-      "tag": "GenericGreen",
-      "stroke": "#7AA116",
-      "icon": "Groups/GenericGreen.png"
-    },
-    {
-      "tag": "GenericOrange",
-      "stroke": "#ED7100",
-      "icon": "Groups/GenericOrange.png"
-    },
-    {
-      "tag": "GenericPink",
-      "stroke": "#E7157B",
-      "icon": "Groups/GenericPink.png"
-    },
-    {
-      "tag": "GenericPurple",
-      "stroke": "#8C4FFF",
-      "icon": "Groups/GenericPurple.png"
-    },
-    {
-      "tag": "GenericRed",
-      "stroke": "#DD344C",
-      "icon": "Groups/GenericRed.png"
-    },
-    {
-      "tag": "GenericTurquoise",
-      "stroke": "#01A88D",
-      "icon": "Groups/GenericTurquoise.png"
-    },
-    {
-      "tag": "IoTGreengrass",
-      "stroke": "#7AA116",
-      "icon": "Groups/IoTGreengrass.png"
-    },
-    {
-      "tag": "IoTGreengrassDeployment",
-      "stroke": "#7AA116",
-      "icon": "Groups/IoTGreengrassDeployment.png"
-    },
-    {
-      "tag": "PrivateSubnet",
-      "stroke": "#00A4A6",
-      "icon": "Groups/PrivateSubnet.png"
-    },
-    {
-      "tag": "PublicSubnet",
-      "stroke": "#7AA116",
-      "icon": "Groups/PublicSubnet.png"
-    },
-    {
-      "tag": "Region",
-      "stroke": "#00A4A6",
-      "border": "dotted",
-      "icon": "Groups/Region.png"
-    },
-    {
-      "tag": "SecurityGroup",
-      "stroke": "#DD344C"
-    },
-    {
-      "tag": "ServerContents",
-      "stroke": "#7D8998",
-      "icon": "Groups/ServerContents.png"
-    },
-    {
-      "tag": "SpotFleet",
-      "stroke": "#ED7100",
-      "icon": "Groups/SpotFleet.png"
-    },
-    {
-      "tag": "StepFunctionsWorkflow",
-      "stroke": "#E7157B",
-      "icon": "Groups/StepFunctionsWorkflow.png"
-    },
-    {
-      "tag": "VPC",
-      "stroke": "#8C4FFF",
-      "icon": "Groups/VPC.png"
+      "icon": "General/weather-company-max-cloud-prism-pro.png"
     }
   ]
 }
