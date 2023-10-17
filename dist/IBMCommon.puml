@@ -118,8 +118,8 @@
 
 !define TECHN_FONT_SIZE 12
 
-if %not(%variable_exists("$GROUP_LABEL_FONT_SIZE"))
-!$GROUP_LABEL_FONT_SIZE  = 25
+!if %not(%variable_exists("$GROUP_LABEL_FONT_SIZE"))
+!$GROUP_LABEL_FONT_SIZE=25
 !endif
 
 skinparam defaultTextAlignment Center
