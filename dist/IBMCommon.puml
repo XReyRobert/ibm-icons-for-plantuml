@@ -384,7 +384,7 @@ participant "p_label\n$IBMImg(p_sprite)\n<size:TECHN_FONT_SIZE>[p_techn]</size>\
 !endfunction
 
 !function $IBMDefineGroup($alias, $label, $sprite, $stereo)
-!$ret = 'rectangle "' + $IBMGroupImg($sprite) + '  ' +'<size:'+$GROUP_LABEL_FONT_SIZE+'>'+$label+'</size>' + '" as ' + $alias + ' <<' + $stereo + '>>'
+!$ret = 'rectangle "' + $IBMGroupImg($sprite) + '  ' +' <size:' + GROUP_LABEL_FONT_SIZE + '>' + $label + '</size>' + '" as ' + $alias + ' <<' + $stereo + '>>'
 '!$ret = 'rectangle "' + $IBMGroupImg($sprite) + '  ' +$label+ '" as ' + $alias + ' <<' + $stereo + '>>'
 !return $ret
 !endfunction
