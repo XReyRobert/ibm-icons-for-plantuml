@@ -119,7 +119,7 @@
 !define TECHN_FONT_SIZE 12
 
 !if %not(%variable_exists("$GROUP_LABEL_FONT_SIZE"))
-!$GROUP_LABEL_FONT_SIZE = "25"
+!$GROUP_LABEL_FONT_SIZE = 25
 !endif
 
 skinparam defaultTextAlignment Center
@@ -387,7 +387,7 @@ participant "p_label\n$IBMImg(p_sprite)\n<size:TECHN_FONT_SIZE>[p_techn]</size>\
 !endfunction
 
 !function $IBMDefineGroup($alias, $label, $sprite, $stereo)
-!$ret = 'rectangle "' + '  ' +' <size:' + $GROUP_LABEL_FONT_SIZE + '>' + $label + '</size>' + '" as ' + $alias + ' <<' + $stereo + '>>'
+!$ret = 'rectangle "' + '  ' + '<size:' + $GROUP_LABEL_FONT_SIZE + '>' + $label + '</size>' + '" as ' + $alias + ' <<' + $stereo + '>>'
 '!$ret = 'rectangle "' + $IBMGroupImg($sprite) + '  ' +' <size:' + $GROUP_LABEL_FONT_SIZE + '>' + $label + '</size>' + '" as ' + $alias + ' <<' + $stereo + '>>'
 
 '!$ret = 'rectangle "' + $IBMGroupImg($sprite) + '  ' +$label+ '" as ' + $alias + ' <<' + $stereo + '>>'
