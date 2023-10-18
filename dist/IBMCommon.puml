@@ -394,7 +394,7 @@ participant "p_label\n$IBMImg(p_sprite)\n<size:TECHN_FONT_SIZE>[p_techn]</size>\
 
 !function $IBMDefineGroup($alias, $label, $sprite, $stereo, $padding)
 
-!$paddingString = '<div align='center'><color:#000000>' + $padding + '</color></div>'
+!$paddingString = '<div align=\'center\'><color:#000000>' + $padding + '</color></div>'
 !$label='<size:' + $GROUP_LABEL_FONT_SIZE + '>' + $label + '</size>' + $paddingString
 !$ret = $IBMDefineGroup($alias, $label, $stereo)
 !return $ret
