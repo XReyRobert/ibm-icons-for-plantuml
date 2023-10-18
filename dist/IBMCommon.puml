@@ -324,7 +324,7 @@ center footer <font color=red>Warning:</font> Created for discussion, needs to b
 !endfunction
 
 !function $IBMGroupImg($service)
-!return %call_user_func("$" + $service + "IMG", "0.5")
+!return %call_user_func("$" + $service + "IMG", "0.4")
 !endfunction
 
 !definelong IBMEntity(e_alias, e_label, e_techn, e_descr, e_color, e_sprite, e_stereo, padding_value)
@@ -400,7 +400,7 @@ participant "p_label\n$IBMImg(p_sprite)\n<size:TECHN_FONT_SIZE>[p_techn]</size>\
 !endfunction
 
 !function $IBMDefineGroup($alias, $label, $sprite, $stereo)
-!$label=$IBMGroupImg($sprite) + '<size:' + $GROUP_LABEL_FONT_SIZE + '>' + $label + '</size>'
+!$label=$IBMGroupImg($sprite) + '<size:' + $GROUP_LABEL_FONT_SIZE + '> ' + $label
 !$ret = $IBMDefineGroup($alias, $label, $stereo)
 !return $ret
 !endfunction
