@@ -329,7 +329,7 @@ center footer <font color=red>Warning:</font> Created for discussion, needs to b
 
 !definelong IBMEntity(e_alias, e_label, e_techn, e_descr, e_color, e_sprite, e_stereo, padding_value)
 !$label_length = %strlen(e_label)
-!$padding_length = padding_value - !$label_length
+!$padding_length = padding_value - $label_length
 !$padding_string = ''
 !while (!$padding_length <= 0)
   !$padding_string = $padding_string + ' '
