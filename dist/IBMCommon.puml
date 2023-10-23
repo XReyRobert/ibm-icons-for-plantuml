@@ -132,13 +132,13 @@ skinparam RoundCorner 0
 skinparam BackgroundColor $IBM_BG_COLOR
 
 !procedure $IBM_common_skinparam()
-    FontColor $IBM_FG_COLOR
-    BackgroundColor $IBM_BG_COLOR
-    BorderColor $IBM_COLOR_GRAY
+'    FontColor $IBM_FG_COLOR
+'    BackgroundColor $IBM_BG_COLOR
+'    BorderColor $IBM_COLOR_GRAY
 !endprocedure
 
 !procedure $IBM_deployment_skinparam()
-    FontColor $IBM_FG_COLOR
+'    FontColor $IBM_FG_COLOR
     BackgroundColor $IBM_BG_COLOR
     BorderColor $IBM_COLOR_GRAY
     BorderThickness 1.25
@@ -147,7 +147,7 @@ skinparam BackgroundColor $IBM_BG_COLOR
 skinparam arrow {
     Color $IBM_ARROW_COLOR
     FontColor $IBM_FG_COLOR
-    FontSize 12
+    FontSize 12'
 }
 
 skinparam TitleFontColor $IBM_FG_COLOR
@@ -264,7 +264,7 @@ skinparam queue {
     $IBM_deployment_skinparam()
 }
 skinparam rectangle {
-    StereotypeFontSize 12
+    'StereotypeFontSize 12
     $IBM_common_skinparam()
     BorderThickness 2
 }
@@ -294,7 +294,7 @@ skinparam partition {
 
 !definelong IBMEntityColoring(stereo)
 skinparam rectangle<<stereo>> {
-    $IBM_common_skinparam()
+    '$IBM_common_skinparam()
     BorderThickness 2
 }
 ' https://github.com/plantuml/plantuml/issues/1023
@@ -404,7 +404,7 @@ participant "p_label\n$IBMImg(p_sprite)\n<size:TECHN_FONT_SIZE>[p_techn]</size>\
 !endfunction
 
 !function $IBMDefineGroup($alias, $label, $sprite, $stereo)
-!$label=' \n' + $IBMGroupImg($sprite) + '<size:' + $GROUP_LABEL_FONT_SIZE + '> ' + $label
+!$label=' \n' + $IBMGroupImg($sprite) + $label
 !$ret = $IBMDefineGroup($alias, $label, $stereo)
 !return $ret
 !endfunction
