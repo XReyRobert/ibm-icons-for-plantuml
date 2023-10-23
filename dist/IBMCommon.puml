@@ -195,11 +195,11 @@ skinparam swimlane {
 }
 
 ' Deployment Diagram
-skinparam actor { 
+skinparam actor {
     $IBM_deployment_skinparam()
     'StereotypeFontColor  $IBM_FG_COLOR
 }
-skinparam agent { 
+skinparam agent {
     $IBM_deployment_skinparam()
     Padding 2
 }
@@ -221,13 +221,13 @@ skinparam cloud {
 skinparam collections {
     $IBM_deployment_skinparam()
 }
-skinparam component { 
+skinparam component {
     $IBM_deployment_skinparam()
 }
 skinparam control {
     $IBM_deployment_skinparam()
 }
-skinparam database { 
+skinparam database {
     $IBM_deployment_skinparam()
 }
 skinparam entity {
@@ -254,10 +254,10 @@ skinparam label {
 skinparam node {
     $IBM_deployment_skinparam()
 }
-skinparam package { 
+skinparam package {
     $IBM_deployment_skinparam()
 }
-skinparam person { 
+skinparam person {
     $IBM_deployment_skinparam()
 }
 skinparam queue {
@@ -274,7 +274,7 @@ skinparam stack {
 skinparam storage {
     $IBM_deployment_skinparam()
 }
-skinparam usecase { 
+skinparam usecase {
     $IBM_deployment_skinparam()
 }
 
@@ -340,12 +340,15 @@ rectangle "==e_label" + $padding_string + "\n$IBMImg(e_sprite)\n//<size:TECHN_FO
 !enddefinelong
 
 
+'Use to have elements of same size (adapt string accordingly
+!$PADDING = "xxxxxxxxxxxxxxx"
+
 !definelong IBMEntity(e_alias, e_label, e_techn, e_color, e_sprite, e_stereo)
-rectangle "==e_label\n$IBMImg(e_sprite)\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<e_stereo>> as e_alias
+rectangle "$IBMImg(e_sprite)\n==e_label\n$ <<e_stereo>> as e_alias
 !enddefinelong
 
 !definelong IBMEntity(e_alias, e_label, e_techn, e_descr, e_color, e_sprite, e_stereo)
-rectangle "==e_label\n$IBMImg(e_sprite)\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<e_stereo>> as e_alias
+rectangle "$IBMImg(e_sprite)\n\n==e_label\n==<color:transparent>$PADDING</color>\ne_descr\n" <<e_stereo>> as e_alias
 !enddefinelong
 
 !definelong IBMParticipant(p_alias, p_label, p_techn, p_color, p_sprite, p_stereo)
@@ -355,6 +358,7 @@ participant "p_label\n$IBMImg(p_sprite)\n<size:TECHN_FONT_SIZE>[p_techn]</size>"
 !definelong IBMParticipant(p_alias, p_label, p_techn, p_descr, p_color, p_sprite, p_stereo)
 participant "p_label\n$IBMImg(p_sprite)\n<size:TECHN_FONT_SIZE>[p_techn]</size>\n\n p_descr" as p_alias <<p_stereo>>
 !enddefinelong
+
 
 ' Group support
 ' ##################################
