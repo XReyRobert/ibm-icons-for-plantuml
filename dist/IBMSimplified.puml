@@ -23,14 +23,14 @@ skinparam SequenceParticipantBorderThickness<<e_stereo>> 0
 !return %call_user_func("$" + $service + "IMG")
 !endfunction
 
-!$ENTITY_SPRITE_SCALING = 0.2
+!$ENTITY_SPRITE_SCALING = 0.5
 
 !definelong IBMEntity(e_alias, e_label, e_techn, e_color, e_sprite, e_stereo)
 rectangle "$IBMImg(e_sprite,$ENTITY_SPRITE_SCALING)\n<color:transparent>$PADDING</color>\n==e_label" <<e_stereo>> as e_alias
 !enddefinelong
 
 !definelong IBMEntity(e_alias, e_label, e_techn, e_descr, e_color, e_sprite, e_stereo)
-rectangle "$IBMImg(e_sprite)\n<color:transparent>$PADDING</color>\n==e_label" <<e_stereo>> as e_alias
+rectangle "$IBMImg(e_sprite,$ENTITY_SPRITE_SCALING)\n<color:transparent>$PADDING</color>\n==e_label" <<e_stereo>> as e_alias
 !enddefinelong
 
 !definelong IBMParticipant(p_alias, p_label, p_techn, p_color, p_sprite, p_stereo)
