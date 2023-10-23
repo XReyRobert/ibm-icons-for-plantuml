@@ -319,8 +319,8 @@ center footer <font color=red>Warning:</font> Created for discussion, needs to b
 
 ' Elements
 ' ##################################
-!function $IBMImg($service)
-!return %call_user_func("$" + $service + "IMG")
+!function $IBMImg($service,$scale="1")
+!return %call_user_func("$" + $service + "IMG",$scale)
 !endfunction
 
 !function $IBMGroupImg($service)
